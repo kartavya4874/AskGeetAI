@@ -38,7 +38,7 @@ async def start_chat(user_input: UserInput):
     # Simplest: Return instructions to UI to show Name Input.
     return BotResponse(
         session_id="", 
-        messages=["Hello! Welcome to ASK GEETA AI. \nI am your virtual guide for Geeta University.", "May I know your name so I can address you properly?"],
+        messages=["Hello! Welcome to ASKGEETAI. \nI am your virtual guide for Geeta University.", "May I know your name so I can address you properly?"],
         buttons=[],
         input_type="text"
     )
