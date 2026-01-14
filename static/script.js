@@ -101,16 +101,16 @@ function configureInput(data) {
         inputArea.classList.add('active');
         userInput.focus();
     } else if (data.input_type === 'button') {
+        const wrapper = document.createElement('div');
+        wrapper.className = 'message-wrapper bot-wrapper';
+        wrapper.style.paddingLeft = '45px'; // Offset for the icon space without showing the icon again
+
         // Create a container for buttons within the chat
         const buttonContainer = document.createElement('div');
-        buttonContainer.className = 'message bot-message button-container';
-        buttonContainer.style.background = 'transparent'; // No bubble background for container
-        buttonContainer.style.boxShadow = 'none';
-        buttonContainer.style.padding = '0';
-        buttonContainer.style.maxWidth = '100%';
+        buttonContainer.className = 'button-container';
         buttonContainer.style.display = 'flex';
         buttonContainer.style.flexWrap = 'wrap';
-        buttonContainer.style.gap = '10px';
+        buttonContainer.style.gap = '8px';
         buttonContainer.style.marginTop = '5px';
 
         data.buttons.forEach((btn, index) => {
@@ -120,13 +120,12 @@ function configureInput(data) {
             button.style.animationDelay = `${index * 0.1}s`;
             button.onclick = () => {
                 sendSelection(btn.value, btn.text);
-                // Optional: Disable buttons after selection to prevent double-click
-                // Array.from(buttonContainer.children).forEach(b => b.disabled = true);
             };
             buttonContainer.appendChild(button);
         });
 
-        chatBox.appendChild(buttonContainer);
+        wrapper.appendChild(buttonContainer);
+        chatBox.appendChild(wrapper);
         chatBox.scrollTop = chatBox.scrollHeight;
     }
 }
@@ -181,16 +180,33 @@ async function callMessageApi(messageOrValue) {
 
 function addMessage(text, sender) {
     const div = document.createElement('div');
-    div.className = `message ${sender}-message`;
-    div.innerHTML = parseMarkdown(text);
+    div.className = `message-wrapper ${sender}-wrapper`;
+
+    let iconHtml = '';
+    if (sender === 'bot') {
+        iconHtml = `<img src="logo.jpeg" class="bot-icon" alt="Bot" onerror="this.style.backgroundColor='#002D62';">`;
+    }
+
+    div.innerHTML = `
+        ${iconHtml}
+        <div class="message ${sender}-message">
+            ${parseMarkdown(text)}
+        </div>
+    `;
+
     chatBox.appendChild(div);
     chatBox.scrollTop = chatBox.scrollHeight;
 }
 
 function showTypingIndicator(withPromise = true) {
     const div = document.createElement('div');
-    div.className = 'typing bot-message';
-    div.innerHTML = '<div class="dot"></div><div class="dot"></div><div class="dot"></div>';
+    div.className = 'message-wrapper bot-wrapper typing-wrapper';
+    div.innerHTML = `
+        <img src="logo.jpeg" class="bot-icon" alt="AI" onerror="this.style.backgroundColor='#002D62';">
+        <div class="typing bot-message">
+            <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        </div>
+    `;
     chatBox.appendChild(div);
     chatBox.scrollTop = chatBox.scrollHeight;
 
