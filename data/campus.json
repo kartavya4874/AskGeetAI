@@ -1,0 +1,71 @@
+{
+    "overview": "Geeta University spans across 40 acres of green campus with modern infrastructure, blending academic excellence with cutting-edge technology as India's first AI-powered university.",
+    "infrastructure": [
+        {
+            "title": "Smart Classrooms",
+            "description": "Spacious, air-conditioned smart classrooms equipped with projectors, LED displays, and modern teaching aids. AI-powered digital attendance system syncs immediately with student data for transparency."
+        },
+        {
+            "title": "Laboratories",
+            "description": "State-of-the-art labs for Engineering, Computer Science, Pharmacy, Agriculture, Forensic Sciences, and Allied Health Sciences. Equipped with latest equipment and technology for hands-on practical learning and research."
+        },
+        {
+            "title": "Central Library",
+            "description": "Well-stocked resourceful library with extensive collection of books, journals, research papers, and digital resources. Features quiet reading zones, e-library access, and study spaces. Open from morning to evening with extended hours during exams."
+        },
+        {
+            "title": "Auditorium",
+            "description": "Grand auditorium with spacious seating arrangement and well-established IT infrastructure for seminars, conferences, cultural events, guest lectures, and convocations. Equipped with modern audio-visual systems."
+        },
+        {
+            "title": "Computer Labs",
+            "description": "Advanced computer labs with high-speed internet connectivity, latest software, and hardware. Dedicated labs for programming, AI/ML, data science, cyber security, and software development projects."
+        },
+        {
+            "title": "GTH Lab",
+            "description": "Specialized Growth, Technology and Innovation Hub (GTH) lab for students to develop technical skills, work on innovative projects, and learn emerging technologies through practical applications."
+        }
+    ],
+    "facilities": [
+        {
+            "title": "Hostels",
+            "description": "Separate AC and Non-AC hostels for boys and girls with modern amenities including furnished rooms, study areas, recreational facilities, and 24/7 security. Hygienic mess providing nutritious food with varied menu options."
+        },
+        {
+            "title": "Cafeteria",
+            "description": "Multi-cuisine cafeteria serving healthy, hygienic, and delicious food with variety of options including North Indian, South Indian, Chinese, and continental dishes. Clean dining environment with affordable pricing."
+        },
+        {
+            "title": "Transport",
+            "description": "University-operated bus facility available from major cities including Delhi, Panipat, Karnal, and nearby areas. Safe and comfortable transportation with regular routes ensuring convenient commute for students."
+        },
+        {
+            "title": "Sports Complex",
+            "description": "Extensive sports facilities spread over 10+ acres including cricket ground, football field, basketball court, volleyball court, badminton courts, and athletics track. Indoor games facilities for chess, carrom, and table tennis."
+        },
+        {
+            "title": "Gymnasium",
+            "description": "Well-equipped modern gymnasium with cardio machines, weight training equipment, and fitness accessories. Professional trainers available to guide students on health and fitness routines."
+        },
+        {
+            "title": "Wi-Fi Campus",
+            "description": "Entire campus is Wi-Fi enabled with high-speed internet connectivity, allowing students to access digital learning resources, online libraries, and educational platforms from anywhere on campus."
+        },
+        {
+            "title": "Medical Facilities",
+            "description": "On-campus medical facility with qualified healthcare professionals available for emergencies and regular health checkups. Tie-ups with nearby hospitals for specialized medical care."
+        },
+        {
+            "title": "ATM and Banking",
+            "description": "ATM facilities available on campus for convenient banking transactions. Partnerships with banks for easy payment of fees through installments and third-party arrangements."
+        }
+    ],
+    "technology_features": [
+        "AI-powered Digital Attendance System",
+        "Smart learning platforms and management systems",
+        "AI-driven classrooms with interactive technology",
+        "Transparent digital systems for all operations",
+        "ERP system for students, parents, and faculty",
+        "Online application and admission portal"
+    ]
+}

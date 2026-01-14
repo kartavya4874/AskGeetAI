@@ -1,0 +1,61 @@
+[
+    {
+        "name": "YUGANTRAN Tech Fest",
+        "type": "Technical Festival",
+        "description": "Annual technical fest featuring coding competitions, robotics challenges, hackathons, project exhibitions, and technical paper presentations. Organized by School of Engineering to promote innovation and technical excellence among students."
+    },
+    {
+        "name": "SANGRILA Annual Cultural Fest",
+        "type": "Cultural Festival",
+        "description": "A grand cultural extravaganza with dance, music, drama, fashion shows, and star nights. Themed 'One Stage, Infinite Stories', this fest celebrates creativity and artistic expression with performances, competitions, and celebrity appearances."
+    },
+    {
+        "name": "NEXHACK Annual Hackathon",
+        "type": "Hackathon",
+        "description": "24-hour intensive coding marathon where students collaborate to solve real-world problems using cutting-edge technology. Participants develop innovative solutions with mentorship from industry experts and compete for prizes."
+    },
+    {
+        "name": "Annual Sports Meet",
+        "type": "Sports Event",
+        "description": "Inter-departmental sports competitions celebrating sportsmanship and physical fitness. Includes cricket, football, basketball, volleyball, athletics, and indoor games with trophies for winners across various categories."
+    },
+    {
+        "name": "Bizz Fiesta",
+        "type": "Management Fest",
+        "description": "Business and management fest celebrating Creativity, Strategy & Success. Features case study competitions, business plan presentations, marketing challenges, and leadership workshops. Organized by School of Management."
+    },
+    {
+        "name": "Fresher's Welcome Party",
+        "type": "Orientation Event",
+        "description": "Grand welcome celebration for new students featuring artist performances, cultural shows, and entertainment programs. Helps freshers integrate into campus life and build connections with seniors and faculty."
+    },
+    {
+        "name": "Moot Court Competitions",
+        "type": "Legal Event",
+        "description": "Mock trial competitions for law students to practice courtroom procedures, legal argumentation, and advocacy skills. Organized by Geeta Global Law School with participation from regional colleges."
+    },
+    {
+        "name": "Industrial Visits",
+        "type": "Educational Activity",
+        "description": "Regular visits to corporate offices, manufacturing units, research labs, and industry facilities. Provides practical exposure and insights into real-world applications of academic learning across all disciplines."
+    },
+    {
+        "name": "Guest Lectures and Seminars",
+        "type": "Academic Event",
+        "description": "Regular sessions with industry experts, alumni, and distinguished professionals sharing insights on latest trends, career opportunities, and emerging technologies. Keeps students updated with current industry demands."
+    },
+    {
+        "name": "Clubs and Societies",
+        "type": "Student Organizations",
+        "description": "Multiple student-run clubs including Dance Club, Sur Sangam (Singing Club), Creative Arts Club, Sports Club, Literary Club, HR Club, and Technical Clubs. Regular meetings, workshops, and events throughout the year.",
+        "activities": [
+            "Dance performances and competitions",
+            "Singing and music events",
+            "Creative arts and craft workshops",
+            "Sports training and tournaments",
+            "Literary discussions and debates",
+            "HR simulations and case studies",
+            "Technical workshops and coding sessions"
+        ]
+    }
+]

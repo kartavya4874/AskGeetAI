@@ -1,0 +1,69 @@
+[
+    {
+        "title": "GUTS (Geeta University Test of Scholarship)",
+        "description": "University's own scholarship examination open to all applicants. Students can earn up to 100% scholarship on tuition fee based on their GUTS score. This scholarship multiplies a candidate's eligibility and can be availed even if not eligible for other scholarships.",
+        "benefits": "10% to 100% tuition fee waiver",
+        "eligibility": "All students applying for admission to any UG/PG/Diploma/PhD program",
+        "application": "Appear for GUTS exam during admission process"
+    },
+    {
+        "title": "Merit-Based Scholarship",
+        "description": "Awarded based on academic performance in qualifying examinations. For UG programs, percentage in Class 12th board exams is considered. For PG programs, Bachelor's degree marks are evaluated. Scholarships range from 10% to 100% of tuition fee.",
+        "benefits": "10% to 100% tuition fee waiver based on marks",
+        "eligibility": "Minimum 50% marks in qualifying examination (varies by program)",
+        "criteria": [
+            "Above 95%: Up to 100% scholarship",
+            "90-95%: Up to 75% scholarship",
+            "85-90%: Up to 50% scholarship",
+            "80-85%: Up to 40% scholarship",
+            "75-80%: Up to 30% scholarship",
+            "70-75%: Up to 20% scholarship",
+            "65-70%: Up to 10% scholarship"
+        ]
+    },
+    {
+        "title": "National Entrance Test Scholarship",
+        "description": "Scholarships for high performers in national level entrance examinations including JEE Main, CUET, MAT, CAT, GATE, XAT, CMAT, NMAT, and CLAT. Performance percentile determines scholarship amount.",
+        "benefits": "10% to 50% tuition fee waiver",
+        "eligibility": "Valid score in recognized national entrance examination",
+        "criteria": [
+            "Top Percentile (≥ 95%): 50% Scholarship",
+            "90-94.99%: 40% Scholarship",
+            "85-89.99%: 30% Scholarship",
+            "80-84.99%: 20% Scholarship",
+            "75-79.99%: 10% Scholarship"
+        ]
+    },
+    {
+        "title": "Sports Scholarship",
+        "description": "Recognition and financial support for students who have demonstrated exceptional talent in sports. Available for those who have participated or won at District, State, National or International level sports competitions.",
+        "benefits": "10% to 50% tuition fee waiver depending on achievement level",
+        "eligibility": "Participation/medal in recognized sports competitions",
+        "criteria": [
+            "International level: Up to 50% scholarship",
+            "National level: Up to 40% scholarship",
+            "State level: Up to 30% scholarship",
+            "District level: Up to 20% scholarship"
+        ],
+        "documentation": "Certificates from recognized sports authorities required"
+    },
+    {
+        "title": "Social Responsibility Scholarship",
+        "description": "Special concessions and financial aid for deserving students from specific backgrounds to ensure education is accessible to all. Demonstrates university's commitment to social equity and inclusive education.",
+        "benefits": "10% to 40% tuition fee waiver",
+        "eligibility": "Students from specific categories",
+        "categories": [
+            "Children of Defense Personnel (Army, Navy, Air Force)",
+            "Children of Single Parents",
+            "Specially-abled children (Physically challenged students)",
+            "Economically weaker sections"
+        ],
+        "documentation": "Valid certificates and proof of category required"
+    },
+    {
+        "title": "Sibling Scholarship",
+        "description": "Concession offered when more than one sibling from the same family is enrolled at Geeta University simultaneously.",
+        "benefits": "5% to 10% tuition fee waiver per sibling",
+        "eligibility": "Two or more siblings studying at GU at the same time"
+    }
+]

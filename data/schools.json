@@ -1,0 +1,322 @@
+[
+    {
+        "id": "cse",
+        "name": "School of Computer Science & Engineering",
+        "description": "Premier school offering cutting-edge programs in Computer Science, Information Technology, Artificial Intelligence, Machine Learning, Data Science, Cyber Security, and Software Development. Equipped with advanced computer labs, GTH Innovation Hub, and strong industry partnerships.",
+        "programs_offered": [
+            "B.Tech CSE",
+            "M.Tech CSE",
+            "BCA",
+            "MCA",
+            "Ph.D. CSE"
+        ],
+        "facilities": [
+            "Advanced Computer Labs with latest hardware and software",
+            "AI & Machine Learning Lab",
+            "Cyber Security Lab",
+            "Data Science Lab",
+            "GTH (Growth Technology Hub) Lab",
+            "High-speed internet connectivity",
+            "Industry-standard development tools"
+        ],
+        "key_focus_areas": [
+            "Artificial Intelligence & Machine Learning",
+            "Data Science & Business Analytics",
+            "Cyber Security & Ethical Hacking",
+            "Full Stack Web Development",
+            "Cloud Computing & DevOps",
+            "Internet of Things (IoT)",
+            "Mobile Application Development"
+        ],
+        "industry_collaborations": "Partnerships with leading IT companies for placements, internships, and training programs. Regular workshops and hackathons conducted."
+    },
+    {
+        "id": "commerce",
+        "name": "School of Commerce & Business Management",
+        "description": "Comprehensive business education with programs in Business Administration, Commerce, Finance, Marketing, HR, and International Business. Offers 17+ MBA specializations with focus on industry exposure through live projects, internships, and corporate interactions.",
+        "programs_offered": [
+            "MBA (17+ specializations)",
+            "BBA (Multiple specializations)",
+            "B.Com Hons. (with ACCA pathway)",
+            "M.Com",
+            "Ph.D. Commerce & Management"
+        ],
+        "specializations": [
+            "Marketing Management",
+            "Finance & Banking",
+            "Human Resource Management",
+            "Business Analytics",
+            "Supply Chain & Logistics",
+            "International Business",
+            "Digital Marketing",
+            "Hospital Management",
+            "Pharmaceutical Management",
+            "Import & Export Management",
+            "FinTech",
+            "Retail Management"
+        ],
+        "facilities": [
+            "Modern classrooms with audio-visual aids",
+            "Business Lab with simulation software",
+            "Digital Library with business journals",
+            "Seminar halls for workshops",
+            "Entrepreneurship Development Cell"
+        ],
+        "key_features": "Case study methodology, industry visits, guest lectures from corporate leaders, summer internships, live projects, and placement assistance with 350+ recruiters."
+    },
+    {
+        "id": "pharmacy",
+        "name": "Geeta Institute of Pharmacy",
+        "description": "PCI-approved institute offering comprehensive pharmaceutical education from diploma to doctoral level. State-of-the-art laboratories for pharmaceutics, pharmacology, pharmaceutical chemistry, and quality control with emphasis on research and practical training.",
+        "programs_offered": [
+            "B.Pharm",
+            "D.Pharm",
+            "M.Pharm (Pharmaceutics/Pharmacology/Pharmaceutical Chemistry)",
+            "Ph.D. Pharmaceutical Sciences"
+        ],
+        "facilities": [
+            "Pharmaceutics Laboratory",
+            "Pharmacology Laboratory",
+            "Pharmaceutical Chemistry Lab",
+            "Pharmaceutical Analysis Lab",
+            "Drug Testing & Quality Control Lab",
+            "Herbal Garden for medicinal plants",
+            "Well-stocked pharmacy library",
+            "Hospital pharmacy training unit"
+        ],
+        "key_focus_areas": [
+            "Drug Discovery & Development",
+            "Clinical Pharmacy & Patient Care",
+            "Pharmaceutical Quality Assurance",
+            "Pharmacovigilance",
+            "Hospital & Community Pharmacy",
+            "Regulatory Affairs",
+            "Pharmaceutical Biotechnology"
+        ],
+        "industry_exposure": "Regular industrial visits to pharmaceutical manufacturing units, hospitals, and quality control labs. Internships in leading pharma companies and hospitals. Strong placement record in pharmaceutical sector."
+    },
+    {
+        "id": "forensic",
+        "name": "School of Forensic Sciences",
+        "description": "Specialized school offering scientific training in forensic investigation, criminology, evidence analysis, and criminal justice. Advanced laboratories equipped for forensic biology, chemistry, digital forensics, and crime scene investigation with practical case study approach.",
+        "programs_offered": [
+            "B.Sc. Forensic Science",
+            "M.Sc. Forensic Science",
+            "Ph.D. Forensic Science"
+        ],
+        "facilities": [
+            "Forensic Biology & Serology Lab",
+            "Forensic Chemistry & Toxicology Lab",
+            "Fingerprint & Trace Evidence Lab",
+            "Digital & Cyber Forensics Lab",
+            "Crime Scene Investigation Training Area",
+            "DNA Profiling Lab",
+            "Ballistics & Questioned Documents Lab",
+            "Forensic Psychology Lab"
+        ],
+        "key_focus_areas": [
+            "Crime Scene Investigation",
+            "Forensic Biology & DNA Analysis",
+            "Forensic Chemistry & Toxicology",
+            "Digital & Cyber Forensics",
+            "Forensic Ballistics",
+            "Forensic Psychology",
+            "Criminal Law & Procedures"
+        ],
+        "unique_features": "Practical training in evidence collection and analysis. Guest lectures from law enforcement officials. Tie-ups with forensic laboratories and police departments for hands-on exposure. Moot court sessions on expert witness testimony."
+    },
+    {
+        "id": "agriculture",
+        "name": "School of Agricultural Studies",
+        "description": "Modern agriculture education focusing on sustainable farming, agronomy, crop production, and agricultural technology. Extensive field area for practical training in various crops, soil management, and modern agricultural techniques with emphasis on rural development.",
+        "programs_offered": [
+            "B.Sc. Hons. Agriculture",
+            "M.Sc. Agriculture (Agronomy)",
+            "Ph.D. Agriculture"
+        ],
+        "facilities": [
+            "Experimental Agricultural Farm",
+            "Agronomy & Soil Science Lab",
+            "Plant Breeding & Genetics Lab",
+            "Plant Pathology & Entomology Lab",
+            "Seed Testing Laboratory",
+            "Agricultural Economics Lab",
+            "Horticulture & Nursery Section",
+            "Agricultural Machinery & Equipment",
+            "Greenhouse for controlled experiments"
+        ],
+        "key_focus_areas": [
+            "Sustainable Crop Production",
+            "Precision Agriculture & Technology",
+            "Soil Health Management",
+            "Plant Breeding & Biotechnology",
+            "Pest & Disease Management",
+            "Agricultural Economics & Marketing",
+            "Organic Farming",
+            "Seed Technology"
+        ],
+        "industry_linkages": "Collaborations with agricultural research institutes, seed companies, and government agricultural departments. Regular field visits to progressive farms and agro-industries."
+    },
+    {
+        "id": "health",
+        "name": "School of Health & Allied Sciences",
+        "description": "Dedicated school for allied health professions including Nutrition, Dietetics, and Physiotherapy. Clinical training facilities, therapeutic equipment, and hospital partnerships for practical exposure. Focus on patient care, rehabilitation, and wellness promotion.",
+        "programs_offered": [
+            "B.Sc. Nutrition & Dietetics",
+            "M.Sc. Nutrition & Dietetics",
+            "BPT (Bachelor of Physiotherapy)",
+            "MPT (Master of Physiotherapy)"
+        ],
+        "facilities": [
+            "Nutrition & Dietetics Laboratory",
+            "Food Science Lab",
+            "Clinical Nutrition Training Unit",
+            "Physiotherapy Clinical Lab",
+            "Electrotherapy Equipment",
+            "Exercise Therapy Hall",
+            "Orthopedic & Sports Rehabilitation Unit",
+            "Hospital affiliation for clinical training",
+            "Diet Counseling Center"
+        ],
+        "key_focus_areas": [
+            "Clinical Dietetics & Therapeutic Nutrition",
+            "Community Health Nutrition",
+            "Sports Nutrition & Fitness",
+            "Physical Therapy & Rehabilitation",
+            "Orthopedic Physiotherapy",
+            "Neurological Rehabilitation",
+            "Cardio-Respiratory Therapy",
+            "Geriatric & Pediatric Care"
+        ],
+        "clinical_exposure": "6-month mandatory internships in hospitals, rehabilitation centers, and wellness clinics. Regular health camps and community nutrition programs. Tie-ups with leading hospitals for clinical rotations."
+    },
+    {
+        "id": "hotel",
+        "name": "School of Hospitality & Hotel Management",
+        "description": "Professional hospitality education with state-of-the-art training facilities for food production, service, housekeeping, and hotel operations. Industry-standard kitchen, mock hotel setup, and mandatory industrial training in star-rated hotels and restaurants.",
+        "programs_offered": [
+            "B.Sc. Hons. Hotel Management",
+            "M.Sc. Hospitality & Hotel Management",
+            "Diploma in Hotel Management"
+        ],
+        "facilities": [
+            "Training Kitchen for Food Production",
+            "Food & Beverage Service Training Restaurant",
+            "Front Office Lab with PMS Software",
+            "Housekeeping Training Lab",
+            "Bakery & Confectionery Section",
+            "Mock Hotel Rooms",
+            "Bar & Beverage Lab",
+            "Laundry Training Unit"
+        ],
+        "key_focus_areas": [
+            "Food Production & Culinary Arts",
+            "Food & Beverage Service Management",
+            "Front Office Operations",
+            "Housekeeping Management",
+            "Event & Banquet Management",
+            "Hotel Marketing & Sales",
+            "Revenue Management",
+            "Hospitality Law & Ethics"
+        ],
+        "industry_training": "6-month industrial training in 5-star hotels, restaurants, and resorts. Regular industrial visits to hospitality establishments. Guest lectures from hotel industry professionals. Placement support in leading hotel chains."
+    },
+    {
+        "id": "law",
+        "name": "Geeta Global Law School",
+        "description": "BCI-approved law school offering integrated and traditional law programs. Moot court facilities, legal aid clinic, and practical training through internships in courts, law firms, and corporate legal departments. Focus on litigation skills, legal research, and professional ethics.",
+        "programs_offered": [
+            "B.A. LL.B. (Hons.) - 5 years",
+            "BBA LL.B. (Hons.) - 5 years",
+            "LL.B. - 3 years",
+            "LL.M. (Master of Laws)",
+            "Ph.D. Law"
+        ],
+        "facilities": [
+            "Moot Court Hall with courtroom setup",
+            "Law Library with extensive legal database",
+            "Legal Aid Clinic",
+            "Computer Lab with legal software",
+            "Seminar Halls for workshops",
+            "Access to online legal research databases"
+        ],
+        "key_focus_areas": [
+            "Constitutional & Administrative Law",
+            "Criminal Law & Justice System",
+            "Corporate & Commercial Law",
+            "Intellectual Property Rights",
+            "Cyber Law & Technology Law",
+            "International Law & Human Rights",
+            "Alternative Dispute Resolution",
+            "Legal Drafting & Advocacy"
+        ],
+        "practical_training": "Regular moot court competitions. Mandatory internships in district courts, high courts, law firms, and corporate legal departments. Legal aid camps for community service. Guest lectures from judges, senior advocates, and legal experts."
+    },
+    {
+        "id": "humanities",
+        "name": "School of Humanities & Social Sciences",
+        "description": "Diverse programs in liberal arts, social sciences, and humanities. Emphasis on critical thinking, research skills, and holistic development. Preparation for civil services, teaching, research, media, and social work with focus on contemporary social issues.",
+        "programs_offered": [
+            "B.A. (Hons.) Political Science",
+            "B.A. (Hons.) English",
+            "B.A. Psychology",
+            "M.A. Psychology",
+            "M.A. English",
+            "Ph.D. Humanities & Social Sciences"
+        ],
+        "facilities": [
+            "Social Science Research Lab",
+            "Psychology Laboratory with testing tools",
+            "Language Lab for communication skills",
+            "Seminar Halls",
+            "Humanities Library with vast collection",
+            "Computer Lab with research software",
+            "Counseling & Guidance Center"
+        ],
+        "key_focus_areas": [
+            "Political Theory & Governance",
+            "International Relations & Diplomacy",
+            "Literary Studies & Criticism",
+            "Clinical & Counseling Psychology",
+            "Organizational Psychology",
+            "Social Work & Community Development",
+            "Research Methodology",
+            "Communication & Soft Skills"
+        ],
+        "unique_features": "Civil services coaching and guidance. Counseling and career guidance services. Regular seminars on contemporary issues. Fieldwork and community engagement projects. Guest lectures from academicians, civil servants, and social activists."
+    },
+    {
+        "id": "engineering",
+        "name": "School of Engineering",
+        "description": "Core engineering programs in Mechanical, Civil, Electrical, and Electronics & Communication with modern laboratories and workshops. Focus on practical skills, design thinking, and industry 4.0 technologies. Strong placement support with technical training programs.",
+        "programs_offered": [
+            "B.Tech Mechanical Engineering",
+            "B.Tech Civil Engineering",
+            "B.Tech Electrical Engineering",
+            "B.Tech Electronics & Communication Engineering"
+        ],
+        "facilities": [
+            "Mechanical Engineering Workshop",
+            "Thermodynamics & Heat Transfer Lab",
+            "CAD/CAM Lab with latest software",
+            "Civil Engineering Surveying Lab",
+            "Structural Testing Lab",
+            "Electrical Machines Lab",
+            "Power Systems & Electronics Lab",
+            "Communication & Signal Processing Lab",
+            "Robotics & Automation Lab",
+            "Project Development Center"
+        ],
+        "key_focus_areas": [
+            "Manufacturing & Production Technology",
+            "Construction & Infrastructure Development",
+            "Power Systems & Renewable Energy",
+            "VLSI & Embedded Systems",
+            "Robotics & Automation",
+            "CAD/CAM & 3D Design",
+            "Smart Grid Technology",
+            "Wireless Communication Systems"
+        ],
+        "industry_exposure": "Regular industrial visits to manufacturing plants, construction sites, and power stations. Industrial training in reputed engineering companies. Participation in technical fests and YUGANTRAN. Projects with industry collaboration."
+    }
+]

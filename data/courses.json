@@ -1,0 +1,1416 @@
+{
+    "cse": [
+        {
+            "id": "btech_cse",
+            "name": "B.Tech. Hons. CSE",
+            "has_details": true,
+            "details": {
+                "overview": "4-year undergraduate program offering excellent placement support with top corporate tie-ups. Includes comprehensive training on latest technologies like AI, Machine Learning, Data Science, Cyber Security, and Full Stack Development with hands-on practical experience.",
+                "curriculum": [
+                    "Computer Science Fundamentals & Programming",
+                    "Data Structures and Algorithms",
+                    "Artificial Intelligence & Machine Learning",
+                    "Data Science & Business Analytics",
+                    "Cyber Security & Ethical Hacking",
+                    "Full Stack Web Development",
+                    "Cloud Computing & DevOps",
+                    "Internet of Things (IoT)",
+                    "Software Engineering & Project Management"
+                ],
+                "eligibility": "Passed 10+2 with Physics and Mathematics as compulsory subjects along with one of Chemistry/Biotechnology/Biology/Technical Vocational subject. Minimum 45% marks (40% for reserved category). JEE Main score accepted for admission.",
+                "career_prospects": [
+                    "Software Developer/Engineer",
+                    "Web & Mobile App Developer",
+                    "Machine Learning Engineer",
+                    "Data Scientist & Analyst",
+                    "Cyber Security Analyst",
+                    "Cloud Solutions Architect",
+                    "DevOps Engineer",
+                    "AI Research Scientist"
+                ],
+                "scholarships": "Merit-based scholarships available based on 10+2 percentage or JEE Mains score. Up to 100% scholarship through GUTS. National entrance exam scholarships also applicable."
+            }
+        },
+        {
+            "id": "mtech_cse",
+            "name": "M.Tech. CSE",
+            "has_details": true,
+            "details": {
+                "overview": "2-year postgraduate program focusing on advanced computer science concepts, research methodologies, and specialized areas. Designed for students seeking higher technical expertise and research opportunities in CSE domains.",
+                "curriculum": [
+                    "Advanced Algorithms & Data Structures",
+                    "Machine Learning & Deep Learning",
+                    "Artificial Intelligence Applications",
+                    "Big Data Analytics",
+                    "Advanced Computer Networks",
+                    "Research Methodology",
+                    "Dissertation/Thesis Project",
+                    "Elective specializations in AI, Cyber Security, or Data Science"
+                ],
+                "eligibility": "B.Tech/BE in Computer Science or related field with minimum 50% marks. Valid GATE score preferred but not mandatory. Admission also based on GUTS or university entrance test.",
+                "career_prospects": [
+                    "Senior Software Engineer",
+                    "Research Scientist",
+                    "AI/ML Specialist",
+                    "Technical Architect",
+                    "Data Science Manager",
+                    "Academic/Teaching positions",
+                    "Technical Consultant"
+                ],
+                "scholarships": "GUTS and GATE-based scholarships available. Merit scholarships for graduates with high CGPA."
+            }
+        },
+        {
+            "id": "bca",
+            "name": "BCA (Bachelor of Computer Applications)",
+            "has_details": true,
+            "details": {
+                "overview": "3-year undergraduate program focusing on computer applications, programming languages, and software development. Ideal for students interested in IT industry without engineering background. Provides strong foundation in computer science fundamentals.",
+                "curriculum": [
+                    "Programming in C, C++, Java, Python",
+                    "Database Management Systems",
+                    "Web Technologies & Development",
+                    "Data Structures",
+                    "Computer Networks",
+                    "Operating Systems",
+                    "Software Engineering",
+                    "Mobile Application Development",
+                    "Project Work & Internship"
+                ],
+                "eligibility": "Passed 10+2 from recognized board with any stream. Minimum 50% marks required. Mathematics at 10+2 level is preferred but not mandatory.",
+                "career_prospects": [
+                    "Software Developer",
+                    "Web Developer",
+                    "Application Programmer",
+                    "System Administrator",
+                    "Database Administrator",
+                    "IT Support Specialist",
+                    "Junior Software Engineer"
+                ],
+                "scholarships": "GUTS scholarship up to 100%. Merit-based scholarships for high performers in Class 12."
+            }
+        },
+        {
+            "id": "mca",
+            "name": "MCA (Master of Computer Applications)",
+            "has_details": true,
+            "details": {
+                "overview": "2-year postgraduate program designed to provide advanced knowledge in computer applications, software development, and emerging technologies. Prepares students for senior positions in IT industry with comprehensive technical training.",
+                "curriculum": [
+                    "Advanced Java Programming",
+                    "Advanced Database Management",
+                    "Web Technologies & Cloud Computing",
+                    "Machine Learning Fundamentals",
+                    "Mobile Application Development",
+                    "Software Project Management",
+                    "Cyber Security",
+                    "Research Methodology",
+                    "Major Project & Dissertation"
+                ],
+                "eligibility": "BCA/B.Sc. (CS/IT) or equivalent with minimum 50% marks. OR B.Sc/B.Com/B.A. with Mathematics at 10+2 or graduation level with minimum 50% marks. Entrance exam scores accepted.",
+                "career_prospects": [
+                    "Software Engineer",
+                    "Project Manager",
+                    "System Analyst",
+                    "Technical Lead",
+                    "Application Developer",
+                    "Database Administrator",
+                    "IT Consultant"
+                ],
+                "scholarships": "GUTS scholarships available. Merit-based aid for high CGPA in graduation."
+            }
+        },
+        {
+            "id": "phd_cse",
+            "name": "Ph.D. CSE",
+            "has_details": true,
+            "details": {
+                "overview": "2-3 year research-focused doctoral program for advanced study and original research in Computer Science and Engineering. Emphasizes innovation, publications, and contributions to the field through dissertation work.",
+                "curriculum": [
+                    "Research Methodology & Ethics",
+                    "Advanced topics in chosen specialization",
+                    "Literature Review & Survey",
+                    "Coursework in specialized areas",
+                    "Research Paper Publications",
+                    "Dissertation Work",
+                    "Thesis Defense"
+                ],
+                "specializations": [
+                    "Artificial Intelligence",
+                    "Machine Learning",
+                    "Data Science",
+                    "Cyber Security",
+                    "Computer Networks",
+                    "Software Engineering",
+                    "IoT and Embedded Systems"
+                ],
+                "eligibility": "M.Tech/M.E. in CSE or related field with minimum 55% marks (50% for reserved). Valid UGC NET/GATE score preferred. Research proposal required.",
+                "career_prospects": [
+                    "Professor/Assistant Professor",
+                    "Research Scientist",
+                    "R&D Head in Industry",
+                    "Principal Scientist",
+                    "Technical Consultant",
+                    "Innovation Manager"
+                ],
+                "scholarships": "University fellowships and research grants available. UGC NET qualified candidates receive additional benefits."
+            }
+        }
+    ],
+    "pharmacy": [
+        {
+            "id": "b_pharm",
+            "name": "B.Pharm. (Bachelor of Pharmacy)",
+            "has_details": true,
+            "details": {
+                "overview": "4-year undergraduate program focusing on pharmaceutical chemistry, pharmacology, drug development, and patient care. PCI (Pharmacy Council of India) approved curriculum with emphasis on practical learning and industry exposure.",
+                "curriculum": [
+                    "Human Anatomy & Physiology",
+                    "Pharmaceutical Analysis & Quality Control",
+                    "Pharmaceutics & Drug Formulation",
+                    "Pharmacology & Toxicology",
+                    "Medicinal Chemistry",
+                    "Pharmaceutical Biotechnology",
+                    "Hospital & Clinical Pharmacy",
+                    "Pharmacovigilance",
+                    "Industrial Training & Project"
+                ],
+                "eligibility": "Passed 10+2 with Physics, Chemistry, and Mathematics (PCM) or Biology (PCB/PCMB) as subjects. Minimum 45% marks required.",
+                "career_prospects": [
+                    "Registered Pharmacist",
+                    "Drug Inspector/Regul atory Affairs",
+                    "Clinical Research Associate",
+                    "Production Chemist",
+                    "Pharmaceutical Marketing & Sales",
+                    "Quality Control Analyst",
+                    "Hospital Pharmacist",
+                    "Research Scientist"
+                ],
+                "scholarships": "Scholarships available based on GUTS score or 12th standard marks. Merit scholarships for high performers."
+            }
+        },
+        {
+            "id": "d_pharm",
+            "name": "D.Pharm. (Diploma in Pharmacy)",
+            "has_details": true,
+            "details": {
+                "overview": "2-year diploma program providing basic pharmaceutical knowledge and skills. Entry-level qualification for pharmacy practice, enabling students to work as registered pharmacists after completion and registration with State Pharmacy Council.",
+                "curriculum": [
+                    "Pharmaceutics - I & II",
+                    "Pharmaceutical Chemistry - I & II",
+                    "Pharmacognosy",
+                    "Human Anatomy & Physiology",
+                    "Biochemistry & Clinical Pathology",
+                    "Pharmacology",
+                    "Drug Store & Business Management",
+                    "Hospital & Clinical Pharmacy",
+                    "Practical Training"
+                ],
+                "eligibility": "Passed 10+2 with Physics, Chemistry and Biology/Mathematics. Minimum 45% marks required.",
+                "career_prospects": [
+                    "Community Pharmacist",
+                    "Hospital Pharmacy Assistant",
+                    "Medical Representative",
+                    "Pharmacy Store Manager",
+                    "Drug Inspector (after experience)",
+                    "Sales & Marketing in Pharma"
+                ],
+                "scholarships": "GUTS and merit-based scholarships available. Special concessions for economically weaker sections."
+            }
+        },
+        {
+            "id": "m_pharm",
+            "name": "M.Pharm. (Pharmaceutics/Pharmacology/Pharmaceutical Chemistry)",
+            "has_details": true,
+            "details": {
+                "overview": "2-year postgraduate program offering advanced specialization in pharmaceutical sciences. Three specializations available: Pharmaceutics, Pharmacology, and Pharmaceutical Chemistry. Focus on research, development, and higher-level pharmaceutical practice.",
+                "specializations": [
+                    {
+                        "name": "Pharmaceutics",
+                        "focus": "Drug formulation, dosage forms, novel drug delivery systems, and biopharmaceutics"
+                    },
+                    {
+                        "name": "Pharmacology",
+                        "focus": "Drug action mechanisms, clinical pharmacology, toxicology, and pharmaceutical testing"
+                    },
+                    {
+                        "name": "Pharmaceutical Chemistry",
+                        "focus": "Drug synthesis, medicinal chemistry, pharmaceutical analysis, and quality assurance"
+                    }
+                ],
+                "curriculum": [
+                    "Advanced specialization subjects",
+                    "Modern Pharmaceutical Analytical Techniques",
+                    "Research Methodology & Biostatistics",
+                    "Regulatory Affairs",
+                    "Seminar & Journal Club",
+                    "Dissertation/Research Project",
+                    "Industrial Training"
+                ],
+                "eligibility": "B.Pharm with minimum 50% marks. Valid GPAT score preferred. Admission also through GUTS or university entrance test.",
+                "career_prospects": [
+                    "Production Manager",
+                    "Quality Assurance Manager",
+                    "Research & Development Scientist",
+                    "Regulatory Affairs Manager",
+                    "Professor/Lecturer",
+                    "Clinical Research Manager",
+                    "Drug Safety Associate"
+                ],
+                "scholarships": "GPAT-based scholarships. GUTS and merit scholarships available for B.Pharm graduates."
+            }
+        },
+        {
+            "id": "phd_pharmacy",
+            "name": "Ph.D. Pharmaceutical Sciences",
+            "has_details": true,
+            "details": {
+                "overview": "2-3 year doctoral research program in pharmaceutical sciences. Focuses on original research, publications, and advanced pharmaceutical knowledge. Prepares candidates for academic, research, and senior industry positions.",
+                "curriculum": [
+                    "Research Methodology",
+                    "Advanced Pharmaceutical Sciences",
+                    "Biostatistics & Research Design",
+                    "Specialized coursework in research area",
+                    "Literature Review & Analysis",
+                    "Original Research Work",
+                    "Publications in peer-reviewed journals",
+                    "Thesis writing and Defense"
+                ],
+                "research_areas": [
+                    "Drug Discovery & Development",
+                    "Pharmaceutical Nanotechnology",
+                    "Pharmacovigilance",
+                    "Clinical Pharmacy",
+                    "Pharmaceutical Biotechnology",
+                    "Quality Assurance"
+                ],
+                "eligibility": "M.Pharm with minimum 55% marks (50% for reserved). NET/GATE/GPAT qualification preferred. Research proposal mandatory.",
+                "career_prospects": [
+                    "Professor/Associate Professor",
+                    "Principal Scientist",
+                    "R&D Head",
+                    "Drug Regulatory Expert",
+                    "Pharmaceutical Consultant",
+                    "Research Director"
+                ],
+                "scholarships": "Research fellowships available. NET/GATE qualified candidates receive financial assistance."
+            }
+        }
+    ],
+    "agriculture": [
+        {
+            "id": "bsc_agri",
+            "name": "B.Sc. Hons. Agriculture",
+            "has_details": true,
+            "details": {
+                "overview": "4-year undergraduate program providing comprehensive knowledge of agriculture, agronomy, sustainable farming practices, and agricultural technology. Includes hands-on practical experience in effective farm management, crop production, and modern agricultural techniques.",
+                "curriculum": [
+                    "Agronomy & Crop Production",
+                    "Soil Science & Fertility Management",
+                    "Plant Breeding & Genetics",
+                    "Agricultural Economics & Farm Management",
+                    "Plant Pathology & Disease Management",
+                    "Entomology & Pest Management",
+                    "Horticulture",
+                    "Agricultural Extension",
+                    "Seed Technology",
+                    "Practical Field Training"
+                ],
+                "eligibility": "10+2 with Physics, Chemistry and Biology/Mathematics/Agriculture with minimum 50% aggregate marks. Preference for students with Biology/Agriculture background.",
+                "career_prospects": [
+                    "Agriculture Officer (Government)",
+                    "Agronomist",
+                    "Seed Technologist",
+                    "Farm Manager",
+                    "Research Scientist",
+                    "Agricultural Consultant",
+                    "Crop Advisor",
+                    "Banking Sector (Agricultural Finance)"
+                ],
+                "scholarships": "Available via GUTS or merit-based on qualifying exam. Special scholarships for rural students."
+            }
+        },
+        {
+            "id": "msc_agri",
+            "name": "M.Sc. Agriculture (Agronomy)",
+            "has_details": true,
+            "details": {
+                "overview": "2-year postgraduate program with specialization in Agronomy. Advanced study of crop production systems, sustainable agriculture, precision farming, and agricultural research methodologies. Prepares students for research and senior positions in agriculture sector.",
+                "curriculum": [
+                    "Advanced Crop Production Technology",
+                    "Soil-Plant-Water Relationships",
+                    "Precision Agriculture & Digital Farming",
+                    "Sustainable Crop Management",
+                    "Agricultural Research Methodology",
+                    "Seed Science & Technology",
+                    "Cropping Systems & Farming Systems Research",
+                    "Thesis/Dissertation Work",
+                    "Field Experiments & Trials"
+                ],
+                "eligibility": "B.Sc. Agriculture or equivalent with minimum 50% marks. Entrance exam performance considered for admission.",
+                "career_prospects": [
+                    "Subject Matter Specialist",
+                    "Assistant Professor",
+                    "Senior Research Fellow",
+                    "Agricultural Development Officer",
+                    "Crop Production Manager",
+                    "Agricultural Consultant",
+                    "Agronomist in MNCs"
+                ],
+                "scholarships": "Merit-based scholarships for B.Sc. Agriculture graduates. GUTS scholarships available."
+            }
+        },
+        {
+            "id": "phd_agriculture",
+            "name": "Ph.D. Agriculture",
+            "has_details": true,
+            "details": {
+                "overview": "2-3 year doctoral research program in agricultural sciences. Focus on original research contributing to agricultural advancement, sustainable practices, and food security. Specializations available in various agricultural disciplines.",
+                "curriculum": [
+                    "Research Methodology in Agriculture",
+                    "Advanced Agronomy/Specialized subjects",
+                    "Statistical Methods & Experimental Design",
+                    "Coursework in specialization area",
+                    "Comprehensive Examination",
+                    "Research & Field Experiments",
+                    "Publications & Presentations",
+                    "Doctoral Dissertation & Defense"
+                ],
+                "specializations": [
+                    "Agronomy",
+                    "Soil Science",
+                    "Plant Breeding",
+                    "Plant Pathology",
+                    "Agricultural Extension",
+                    "Agricultural Economics"
+                ],
+                "eligibility": "M.Sc. Agriculture or equivalent with minimum 55% marks (50% for reserved). NET/ICAR qualified preferred. Research proposal required.",
+                "career_prospects": [
+                    "Professor/Associate Professor",
+                    "Senior Scientist (ICAR/Universities)",
+                    "Research Director",
+                    "Agricultural Policy Advisor",
+                    "International Organization Consultant",
+                    "Agribusiness R&D Head"
+                ],
+                "scholarships": "University fellowships and research grants. NET/ICAR fellowship available for qualified candidates."
+            }
+        }
+    ],
+    "law": [
+        {
+            "id": "ba_llb",
+            "name": "B.A. LL.B. (Hons.)",
+            "has_details": true,
+            "details": {
+                "overview": "5-year integrated program combining Arts and Law, approved by Bar Council of India (BCI). Focuses on constitutional law, criminal law, civil law, and practical legal training through moot courts, internships, and legal aid activities.",
+                "curriculum": [
+                    "Political Science & International Relations",
+                    "Sociology & Economics",
+                    "Constitutional Law",
+                    "Contract Law & Specific Relief",
+                    "Family Law",
+                    "Criminal Procedure Code & IPC",
+                    "Civil Procedure Code",
+                    "Corporate Law",
+                    "Intellectual Property Rights",
+                    "Legal Writing & Advocacy Skills",
+                    "Moot Courts & Practical Training"
+                ],
+                "eligibility": "10+2 from recognized board with minimum 45% marks (42% for OBC, 40% for SC/ST). Any stream eligible. CLAT/AILET/University entrance test accepted.",
+                "career_prospects": [
+                    "Advocate/Lawyer (Private Practice)",
+                    "Legal Advisor/Corporate Counsel",
+                    "Judge (after Judiciary Exams)",
+                    "Corporate Lawyer",
+                    "Legal Analyst",
+                    "Legal Journalist",
+                    "Civil Services (IAS, IPS)",
+                    "Legal Process Outsourcing"
+                ],
+                "scholarships": "Merit scholarships and GUTS based financial aid available. CLAT toppers receive special scholarships."
+            }
+        },
+        {
+            "id": "bba_llb",
+            "name": "BBA LL.B. (Hons.)",
+            "has_details": true,
+            "details": {
+                "overview": "5-year integrated dual degree program combining Business Administration and Law. BCI approved curriculum providing expertise in both corporate law and business management. Ideal for students seeking careers in corporate legal sector.",
+                "curriculum": [
+                    "Business Organization & Management",
+                    "Financial Accounting & Cost Accounting",
+                    "Marketing Management",
+                    "Human Resource Management",
+                    "Business Law & Corporate Law",
+                    "Contract Law & Intellectual Property",
+                    "Taxation Law & Company Law",
+                    "Constitutional & Criminal Law",
+                    "Banking & Insurance Law",
+                    "Practical Training & Moot Courts",
+                    "Corporate Internships"
+                ],
+                "eligibility": "10+2 with minimum 50% marks from recognized board. Any stream eligible. University entrance test or CLAT score considered.",
+                "career_prospects": [
+                    "Corporate Lawyer",
+                    "Legal Manager in Companies",
+                    "Corporate Counsel",
+                    "Compliance Officer",
+                    "Legal Consultant",
+                    "Business Development Manager (Legal)",
+                    "Contract Manager",
+                    "Mergers & Acquisitions Specialist"
+                ],
+                "scholarships": "GUTS scholarships up to 100%. Merit-based aid for high performers in Class 12."
+            }
+        },
+        {
+            "id": "llb",
+            "name": "LL.B. (3-Year)",
+            "has_details": true,
+            "details": {
+                "overview": "3-year professional law degree for graduates from any discipline. BCI approved program enabling practice as lawyer after completion. Covers all essential areas of law with practical training and internship opportunities.",
+                "curriculum": [
+                    "Constitutional Law",
+                    "Law of Contracts",
+                    "Indian Penal Code",
+                    "Civil Procedure Code",
+                    "Criminal Procedure Code",
+                    "Law of Torts",
+                    "Family Law",
+                    "Property Law",
+                    "Environmental Law",
+                    "Jurisprudence",
+                    "Practical Training & Moot Courts"
+                ],
+                "eligibility": "Bachelor's degree in any discipline with minimum 45% marks (42% for OBC, 40% for SC/ST). Entrance test may be required.",
+                "career_prospects": [
+                    "Legal Practitioner",
+                    "Lawyer/Advocate",
+                    "Legal Advisor",
+                    "Judiciary Services",
+                    "Legal Officer in Government",
+                    "Legal Consultant"
+                ],
+                "scholarships": "Merit scholarships based on graduation marks. GUTS scholarships available."
+            }
+        },
+        {
+            "id": "llm",
+            "name": "LL.M. (Master of Laws)",
+            "has_details": true,
+            "details": {
+                "overview": "2-year postgraduate law program for advanced legal studies and specialization. Designed for law graduates seeking expertise in specific legal areas, research, teaching, or higher positions in legal profession.",
+                "curriculum": [
+                    "Research Methodology in Law",
+                    "Advanced Constitutional Law",
+                    "Specialization subjects (based on chosen area)",
+                    "Comparative Legal Studies",
+                    "International Law",
+                    "Dissertation/Research Project",
+                    "Seminars & Presentations",
+                    "Legal Writing & Publication"
+                ],
+                "specializations": [
+                    "Corporate Law",
+                    "Criminal Law",
+                    "Intellectual Property Rights",
+                    "Constitutional Law",
+                    "International Law",
+                    "Taxation Law"
+                ],
+                "eligibility": "LL.B. degree with minimum 50% marks from recognized university. Valid CLAT PG or university entrance score may be required.",
+                "career_prospects": [
+                    "Senior Advocate",
+                    "Legal Professor/Academic",
+                    "Legal Researcher",
+                    "Senior Corporate Counsel",
+                    "Legal Consultant (International)",
+                    "Higher Judiciary",
+                    "Legal Advisor to Government"
+                ],
+                "scholarships": "Merit-based scholarships for LL.B. graduates. GUTS and CLAT PG scholarships available."
+            }
+        },
+        {
+            "id": "phd_law",
+            "name": "Ph.D. Law",
+            "has_details": true,
+            "details": {
+                "overview": "2-3 year doctoral research program in legal studies. Emphasis on original legal research, scholarly publications, and contribution to legal scholarship. Prepares candidates for academic positions and expert legal consultancy.",
+                "curriculum": [
+                    "Research Methodology in Legal Studies",
+                    "Advanced Legal Theory",
+                    "Coursework in specialization",
+                    "Literature Review & Legal Analysis",
+                    "Empirical Legal Research",
+                    "Publications in Law Journals",
+                    "Doctoral Dissertation",
+                    "Thesis Defense"
+                ],
+                "research_areas": [
+                    "Constitutional Law",
+                    "Criminal Justice System",
+                    "Corporate & Commercial Law",
+                    "Human Rights Law",
+                    "International Law",
+                    "Cyber Law",
+                    "Environmental Law"
+                ],
+                "eligibility": "LL.M. with minimum 55% marks (50% for reserved). UGC NET in Law preferred. Research proposal mandatory.",
+                "career_prospects": [
+                    "Professor of Law",
+                    "Legal Researcher",
+                    "Supreme Court Lawyer",
+                    "Law Commission Member",
+                    "Legal Policy Maker",
+                    "International Legal Consultant"
+                ],
+                "scholarships": "Research fellowships available. UGC NET qualified receive financial assistance."
+            }
+        }
+    ],
+    "commerce": [
+        {
+            "id": "mba",
+            "name": "Master of Business Administration (MBA)",
+            "has_details": true,
+            "details": {
+                "overview": "2-year postgraduate program designed to develop business leadership and management skills. Industry-oriented curriculum with 17+ specializations available. Focus on case studies, live projects, internships, and corporate interactions.",
+                "curriculum": [
+                    "Marketing Management & Strategy",
+                    "Financial Management & Analysis",
+                    "Human Resource Management",
+                    "Business Analytics & Intelligence",
+                    "Operations & Supply Chain Management",
+                    "Entrepreneurship & Innovation",
+                    "Strategic Management",
+                    "International Business",
+                    "Corporate Governance",
+                    "Summer Internship Project",
+                    "Major Project & Dissertation"
+                ],
+                "specializations": [
+                    "Marketing",
+                    "Finance",
+                    "Human Resources",
+                    "Business Analytics",
+                    "Supply Chain & Logistics",
+                    "International Business",
+                    "Pharmaceutical Management",
+                    "Banking & Financial Services",
+                    "Digital Marketing",
+                    "Retail Management",
+                    "Hospital Management",
+                    "Import & Export Management"
+                ],
+                "eligibility": "Bachelor's degree in any discipline with minimum 50% marks. Entrance exam score (CAT/MAT/XAT/CMAT/NMAT/GUTS) required.",
+                "career_prospects": [
+                    "Business Development Manager",
+                    "Marketing Manager/Brand Manager",
+                    "Financial Analyst/Finance Manager",
+                    "HR Manager/Talent Acquisition Head",
+                    "Operations Manager",
+                    "Management Consultant",
+                    "Entrepreneur",
+                    "Product Manager"
+                ],
+                "scholarships": "Scholarships for meritorious students and entrance exam toppers. CAT/MAT toppers receive up to 50% scholarship. GUTS scholarships available."
+            }
+        },
+        {
+            "id": "bba",
+            "name": "Bachelor of Business Administration (BBA)",
+            "has_details": true,
+            "details": {
+                "overview": "3-year undergraduate program providing foundation in business management, entrepreneurship, and corporate practices. Multiple specializations available with emphasis on practical learning through internships, industry visits, and live projects.",
+                "curriculum": [
+                    "Principles of Management",
+                    "Business Economics",
+                    "Financial Accounting & Cost Accounting",
+                    "Marketing Management",
+                    "Human Resource Management",
+                    "Organizational Behavior",
+                    "Business Law & Ethics",
+                    "Entrepreneurship Development",
+                    "Business Communication",
+                    "Project Work & Internship"
+                ],
+                "specializations": [
+                    "Digital Marketing",
+                    "Human Resource Management",
+                    "Import & Export Management",
+                    "Business Analytics",
+                    "Banking & Financial Services",
+                    "Retail Management",
+                    "Hospital Management",
+                    "FinTech",
+                    "Artificial Intelligence & Data Analytics"
+                ],
+                "eligibility": "10+2 from recognized board with minimum 50% marks. Any stream eligible but Commerce/Business Studies preferred.",
+                "career_prospects": [
+                    "Business Analyst",
+                    "Marketing Executive",
+                    "HR Executive",
+                    "Operations Executive",
+                    "Business Development Executive",
+                    "Entrepreneur",
+                    "Sales Manager",
+                    "Administrative Officer"
+                ],
+                "scholarships": "GUTS scholarships up to 100%. Merit-based aid for Class 12 toppers."
+            }
+        },
+        {
+            "id": "bcom",
+            "name": "B.Com Hons. (Bachelor of Commerce)",
+            "has_details": true,
+            "details": {
+                "overview": "3-year undergraduate commerce program with honours, providing in-depth knowledge of accounting, finance, taxation, and business. Multiple specializations available including ACCA UK pathway for international career opportunities.",
+                "curriculum": [
+                    "Financial Accounting",
+                    "Corporate Accounting",
+                    "Cost & Management Accounting",
+                    "Business Statistics",
+                    "Economics & Business Environment",
+                    "Income Tax & Indirect Taxation",
+                    "Auditing & Corporate Governance",
+                    "Company Law",
+                    "Banking & Insurance",
+                    "E-Commerce & Digital Business"
+                ],
+                "specializations": [
+                    "Advanced Accounting",
+                    "Auditing & Taxation",
+                    "Banking & Insurance",
+                    "International Accounting with ACCA UK"
+                ],
+                "eligibility": "10+2 with Commerce stream preferred. Minimum 50% marks required. Students from other streams also eligible.",
+                "career_prospects": [
+                    "Chartered Accountant (CA)",
+                    "Company Secretary (CS)",
+                    "Accountant/Financial Analyst",
+                    "Tax Consultant",
+                    "Auditor",
+                    "Banking Professional",
+                    "Financial Advisor",
+                    "Insurance Manager"
+                ],
+                "scholarships": "Merit scholarships based on Class 12 marks. GUTS scholarships available. Special benefits for ACCA pathway students."
+            }
+        },
+        {
+            "id": "mcom",
+            "name": "M.Com (Master of Commerce)",
+            "has_details": true,
+            "details": {
+                "overview": "2-year postgraduate commerce program for advanced study in accounting, finance, taxation, and business. Prepares students for professional courses like CA, CS, CMA, and senior positions in finance sector.",
+                "curriculum": [
+                    "Advanced Accounting Theory",
+                    "Corporate Financial Reporting",
+                    "Advanced Cost & Management Accounting",
+                    "Corporate Tax Planning",
+                    "Financial Management & Analysis",
+                    "Business Research Methods",
+                    "International Finance",
+                    "Dissertation/Project Work"
+                ],
+                "eligibility": "B.Com or equivalent degree with minimum 50% marks. Students from BBA/other backgrounds may be considered based on commerce subjects.",
+                "career_prospects": [
+                    "Senior Accountant",
+                    "Finance Manager",
+                    "Tax Consultant",
+                    "Financial Controller",
+                    "Lecturer/Professor",
+                    "Investment Advisor",
+                    "Research Analyst"
+                ],
+                "scholarships": "Merit-based scholarships for B.Com graduates. GUTS scholarships available."
+            }
+        },
+        {
+            "id": "phd_commerce",
+            "name": "Ph.D. Commerce & Management",
+            "has_details": true,
+            "details": {
+                "overview": "2-3 year doctoral research program in commerce, accounting, finance, or management. Focus on original research contributing to business knowledge, financial practices, and management theory.",
+                "curriculum": [
+                    "Research Methodology",
+                    "Quantitative Techniques & Analysis",
+                    "Advanced topics in specialization",
+                    "Coursework Requirements",
+                    "Comprehensive Examination",
+                    "Research & Data Collection",
+                    "Publications in Journals",
+                    "Doctoral Thesis & Defense"
+                ],
+                "research_areas": [
+                    "Accounting & Finance",
+                    "Banking & Insurance",
+                    "Taxation & Corporate Law",
+                    "Marketing & Consumer Behavior",
+                    "Financial Markets",
+                    "International Business"
+                ],
+                "eligibility": "M.Com/MBA with minimum 55% marks (50% for reserved). UGC NET in Commerce/Management preferred. Research proposal mandatory.",
+                "career_prospects": [
+                    "Professor/Associate Professor",
+                    "Research Consultant",
+                    "Financial Research Analyst",
+                    "Economic Advisor",
+                    "Corporate Trainer",
+                    "Policy Researcher"
+                ],
+                "scholarships": "University fellowships available. UGC NET qualified candidates receive financial assistance."
+            }
+        }
+    ],
+    "forensic": [
+        {
+            "id": "bsc_forensic",
+            "name": "B.Sc. Forensic Science",
+            "has_details": true,
+            "details": {
+                "overview": "3-year undergraduate program dealing with the application of scientific knowledge to investigation of crimes. Covers forensic biology, chemistry, digital forensics, and crime scene investigation with hands-on laboratory training.",
+                "curriculum": [
+                    "Forensic Biology & Serology",
+                    "Forensic Chemistry & Toxicology",
+                    "Crime Scene Investigation & Management",
+                    "Forensic Ballistics",
+                    "Digital & Cyber Forensics",
+                    "Fingerprint Analysis",
+                    "DNA Profiling & Analysis",
+                    "Forensic Psychology",
+                    "Criminal Law & Procedures",
+                    "Laboratory Practicals & Field Training"
+                ],
+                "eligibility": "10+2 with Physics, Chemistry, Biology/Maths with minimum 50% marks. PCB students preferred.",
+                "career_prospects": [
+                    "Forensic Scientist (Government Labs)",
+                    "Crime Scene Investigator",
+                    "Forensic Pathologist Assistant",
+                    "Toxicology Lab Assistant",
+                    "Cyber Forensic Expert",
+                    "Evidence Technician",
+                    "Private Forensic Consultant",
+                    "Research Associate in Forensics"
+                ],
+                "scholarships": "Merit-based and GUTS scholarships apply. Special considerations for students interested in law enforcement careers."
+            }
+        },
+        {
+            "id": "msc_forensic",
+            "name": "M.Sc. Forensic Science",
+            "has_details": true,
+            "details": {
+                "overview": "2-year postgraduate program providing advanced specialization in forensic sciences. Focus on advanced analytical techniques, research methodology, and specialized areas of forensic investigation with extensive laboratory work.",
+                "curriculum": [
+                    "Advanced Forensic Chemistry",
+                    "Advanced Forensic Biology & DNA Technology",
+                    "Forensic Toxicology & Drug Analysis",
+                    "Advanced Crime Scene Investigation",
+                    "Forensic Ballistics & Tool Marks",
+                    "Cyber Crime & Digital Forensics",
+                    "Research Methodology",
+                    "Questioned Documents Examination",
+                    "Dissertation/Research Project"
+                ],
+                "eligibility": "B.Sc. Forensic Science or B.Sc. in Chemistry/Biology/Physics with minimum 50% marks. Entrance test may be conducted.",
+                "career_prospects": [
+                    "Senior Forensic Scientist",
+                    "Forensic Laboratory Director",
+                    "Crime Investigation Officer",
+                    "Forensic Consultant",
+                    "Academic/Research positions",
+                    "Expert Witness in Courts",
+                    "Forensic Trainer"
+                ],
+                "scholarships": "Merit scholarships for B.Sc. graduates. GUTS scholarships available."
+            }
+        },
+        {
+            "id": "phd_forensic",
+            "name": "Ph.D. Forensic Science",
+            "has_details": true,
+            "details": {
+                "overview": "2-3 year doctoral research program in forensic sciences. Advanced research in specialized forensic areas contributing to criminal investigation methodologies, forensic techniques, and legal evidence analysis.",
+                "curriculum": [
+                    "Research Methodology in Forensic Science",
+                    "Advanced Analytical Techniques",
+                    "Specialized coursework in research area",
+                    "Literature Review & Survey",
+                    "Experimental Research Work",
+                    "Publications in Forensic Journals",
+                    "Dissertation & Thesis Defense"
+                ],
+                "research_areas": [
+                    "DNA Profiling & Genetics",
+                    "Forensic Toxicology",
+                    "Cyber Forensics",
+                    "Forensic Ballistics",
+                    "Trace Evidence Analysis",
+                    "Forensic Anthropology"
+                ],
+                "eligibility": "M.Sc. Forensic Science or related field with minimum 55% marks (50% for reserved). NET/GATE preferred. Research proposal required.",
+                "career_prospects": [
+                    "Professor of Forensic Science",
+                    "Senior Research Scientist",
+                    "Forensic Laboratory Director",
+                    "Consultant to Law Enforcement",
+                    "Expert Witness",
+                    "International Forensic Consultant"
+                ],
+                "scholarships": "Research fellowships available. NET qualified candidates receive financial assistance."
+            }
+        }
+    ],
+    "humanities": [
+        {
+            "id": "ba_polsci",
+            "name": "B.A. (Hons.) Political Science",
+            "has_details": true,
+            "details": {
+                "overview": "3-year undergraduate program exploring political systems, public administration, international relations, and governance. Ideal preparation for civil services, policy analysis, journalism, and higher studies in political science.",
+                "curriculum": [
+                    "Political Theory & Concepts",
+                    "Indian Government & Politics",
+                    "International Relations & World Politics",
+                    "Public Administration",
+                    "Comparative Politics & Government",
+                    "Political Sociology",
+                    "Indian Foreign Policy",
+                    "Contemporary Political Issues",
+                    "Research Methods in Political Science",
+                    "Project Work"
+                ],
+                "eligibility": "10+2 in any stream with minimum 50% marks from recognized board.",
+                "career_prospects": [
+                    "Civil Services (UPSC - IAS, IPS, IFS)",
+                    "Policy Analyst",
+                    "Political Consultant",
+                    "Journalism & Media",
+                    "Teaching/Research Scholar",
+                    "Diplomatic Services",
+                    "Political Campaign Manager",
+                    "NGO/Social Work"
+                ],
+                "scholarships": "Available for meritorious students. GUTS scholarships up to 100%."
+            }
+        },
+        {
+            "id": "ba_english",
+            "name": "B.A. (Hons.) English",
+            "has_details": true,
+            "details": {
+                "overview": "3-year undergraduate program in English literature, language, and linguistics. Develops critical thinking, communication skills, and literary analysis abilities. Opens diverse career paths in media, publishing, teaching, and corporate communications.",
+                "curriculum": [
+                    "British Literature (Various Periods)",
+                    "American Literature",
+                    "Indian Writing in English",
+                    "Literary Criticism & Theory",
+                    "Linguistics & Phonetics",
+                    "Creative Writing",
+                    "Language & Communication Skills",
+                    "Drama & Poetry Analysis",
+                    "Contemporary Literature",
+                    "Project Work"
+                ],
+                "eligibility": "10+2 in any stream with minimum 50% marks. English as a subject at 10+2 level.",
+                "career_prospects": [
+                    "Content Writer/Editor",
+                    "Journalist",
+                    "Teaching (after B.Ed.)",
+                    "Publishing Professional",
+                    "Corporate Communications",
+                    "Public Relations Officer",
+                    "Mass Media Professional",
+                    "Creative Writer/Author"
+                ],
+                "scholarships": "Merit-based scholarships for Class 12 achievers. GUTS scholarships available."
+            }
+        },
+        {
+            "id": "ba_psychology",
+            "name": "B.A. Psychology",
+            "has_details": true,
+            "details": {
+                "overview": "3-year undergraduate program in psychology covering human behavior, mental processes, counseling, and psychological research. Foundation for careers in clinical psychology, counseling, HR, and social work.",
+                "curriculum": [
+                    "Introduction to Psychology",
+                    "Developmental Psychology",
+                    "Social Psychology",
+                    "Abnormal Psychology",
+                    "Cognitive Psychology",
+                    "Organizational Psychology",
+                    "Counseling Psychology",
+                    "Research Methods & Statistics",
+                    "Psychological Testing & Assessment",
+                    "Practical Training & Case Studies"
+                ],
+                "eligibility": "10+2 in any stream with minimum 50% marks from recognized board.",
+                "career_prospects": [
+                    "Counselor (after M.A. & certification)",
+                    "HR Professional",
+                    "Clinical Psychologist (after M.A. & M.Phil)",
+                    "School Counselor",
+                    "Social Worker",
+                    "Market Research Analyst",
+                    "Rehabilitation Specialist",
+                    "Organizational Consultant"
+                ],
+                "scholarships": "GUTS scholarships and merit-based aid available."
+            }
+        },
+        {
+            "id": "ma_psychology",
+            "name": "M.A. Psychology",
+            "has_details": true,
+            "details": {
+                "overview": "2-year postgraduate program in psychology with specializations in clinical, counseling, or organizational psychology. Advanced theoretical knowledge combined with practical training in psychological assessment, therapy, and research.",
+                "curriculum": [
+                    "Advanced Psychological Theories",
+                    "Psychopathology",
+                    "Counseling Techniques & Therapies",
+                    "Psychological Assessment & Testing",
+                    "Research Methodology & Statistics",
+                    "Clinical Psychology Practicum",
+                    "Organizational Behavior & Development",
+                    "Dissertation/Research Project",
+                    "Internship/Field Work"
+                ],
+                "specializations": [
+                    "Clinical Psychology",
+                    "Counseling Psychology",
+                    "Organizational Psychology",
+                    "Child Psychology"
+                ],
+                "eligibility": "B.A. Psychology or equivalent with minimum 50% marks. Entrance test may be conducted.",
+                "career_prospects": [
+                    "Clinical Psychologist (with license)",
+                    "Counseling Psychologist",
+                    "Organizational Psychologist/HR Consultant",
+                    "Rehabilitation Counselor",
+                    "Academic/Teaching positions",
+                    "Research Psychologist",
+                    "Hospital/Healthcare Psychologist"
+                ],
+                "scholarships": "Merit scholarships for B.A. graduates. GUTS scholarships available."
+            }
+        },
+        {
+            "id": "ma_english",
+            "name": "M.A. English",
+            "has_details": true,
+            "details": {
+                "overview": "2-year postgraduate program in English literature and language studies. In-depth analysis of literary works, critical theories, and research methodologies. Prepares for teaching, research, writing, and editorial careers.",
+                "curriculum": [
+                    "Advanced Literary Theory & Criticism",
+                    "British Literature (Medieval to Contemporary)",
+                    "American Literature",
+                    "Postcolonial Literature",
+                    "Indian Writing in English",
+                    "Research Methodology",
+                    "Comparative Literature",
+                    "Linguistics & Applied Linguistics",
+                    "Dissertation",
+                    "Special Author Studies"
+                ],
+                "eligibility": "B.A. English or equivalent with minimum 50% marks. Entrance test may be required.",
+                "career_prospects": [
+                    "Professor/Lecturer (after NET)",
+                    "Research Scholar",
+                    "Senior Content Writer/Editor",
+                    "Publishing House Editor",
+                    "Media Professional",
+                    "Literary Critic",
+                    "Corporate Communication Manager"
+                ],
+                "scholarships": "Merit-based scholarships. GUTS scholarships for high achievers."
+            }
+        },
+        {
+            "id": "phd_humanities",
+            "name": "Ph.D. Humanities & Social Sciences",
+            "has_details": true,
+            "details": {
+                "overview": "2-3 year doctoral research program in various humanities disciplines including Political Science, English, Psychology, Sociology. Focus on original research, publications, and scholarly contributions to the field.",
+                "curriculum": [
+                    "Research Methodology",
+                    "Advanced coursework in specialization",
+                    "Literature Review & Critical Analysis",
+                    "Fieldwork/Data Collection (if applicable)",
+                    "Publications in peer-reviewed journals",
+                    "Doctoral Dissertation",
+                    "Thesis Defense & Viva Voce"
+                ],
+                "research_areas": [
+                    "Political Science & Governance",
+                    "English Literature & Linguistics",
+                    "Psychology & Mental Health",
+                    "Sociology & Social Work",
+                    "Education & Pedagogy"
+                ],
+                "eligibility": "M.A. in relevant discipline with minimum 55% marks (50% for reserved). UGC NET/JRF preferred. Research proposal mandatory.",
+                "career_prospects": [
+                    "Professor/Associate Professor",
+                    "Research Scholar",
+                    "Policy Advisor",
+                    "Author/Writer",
+                    "Think Tank Consultant",
+                    "Senior Psychologist/Counselor"
+                ],
+                "scholarships": "Research fellowships available. UGC NET/JRF qualified receive financial assistance."
+            }
+        }
+    ],
+    "hotel": [
+        {
+            "id": "bsc_hotel",
+            "name": "B.Sc. Hons. Hotel Management",
+            "has_details": true,
+            "details": {
+                "overview": "3-year undergraduate program in hospitality and hotel management. Comprehensive training in hotel operations, food production, housekeeping, front office management, and guest services. Includes industrial training in reputed hotels.",
+                "curriculum": [
+                    "Food Production & Patisserie",
+                    "Food & Beverage Service",
+                    "Front Office Operations",
+                    "Housekeeping Operations",
+                    "Hotel Accounting & Finance",
+                    "Hotel Marketing & Sales",
+                    "Hospitality Law",
+                    "Event Management",
+                    "Tourism Management",
+                    "Industrial Training (6 months)"
+                ],
+                "eligibility": "10+2 from recognized board with minimum 50% marks. Any stream eligible. Good communication skills preferred.",
+                "career_prospects": [
+                    "Hotel Manager",
+                    "Restaurant Manager",
+                    "Front Office Manager",
+                    "Food & Beverage Manager",
+                    "Event Manager",
+                    "Catering Manager",
+                    "Cruise Ship Manager",
+                    "Resort Manager",
+                    "Hospitality Consultant"
+                ],
+                "scholarships": "GUTS scholarships available. Merit-based aid for high achievers in Class 12."
+            }
+        },
+        {
+            "id": "diploma_hotel",
+            "name": "Diploma in Hotel Management",
+            "has_details": true,
+            "details": {
+                "overview": "1-year diploma program providing foundational knowledge and skills in hotel and hospitality operations. Fast-track program for quick entry into hospitality industry with practical training focus.",
+                "curriculum": [
+                    "Basics of Hotel Operations",
+                    "Food Production Fundamentals",
+                    "Food & Beverage Service",
+                    "Front Office Management",
+                    "Housekeeping Management",
+                    "Customer Service Excellence",
+                    "Basic Hotel Accounting",
+                    "Communication Skills",
+                    "Industrial Training"
+                ],
+                "eligibility": "10+2 passed from recognized board. Minimum 50% marks. Any stream eligible.",
+                "career_prospects": [
+                    "Hotel Supervisor",
+                    "Restaurant Supervisor",
+                    "Front Desk Executive",
+                    "F&B Service Associate",
+                    "Housekeeping Supervisor",
+                    "Catering Assistant",
+                    "Guest Relations Executive"
+                ],
+                "scholarships": "GUTS scholarships applicable. Special concessions for deserving candidates."
+            }
+        },
+        {
+            "id": "msc_hotel",
+            "name": "M.Sc. Hospitality & Hotel Management",
+            "has_details": true,
+            "details": {
+                "overview": "2-year postgraduate program for advanced specialization in hospitality management. Focus on strategic management, leadership, and contemporary issues in global hospitality industry.",
+                "curriculum": [
+                    "Advanced Hotel Operations Management",
+                    "Strategic Hospitality Marketing",
+                    "Revenue & Yield Management",
+                    "Global Tourism Management",
+                    "Hospitality Human Resource Management",
+                    "Quality Management in Hospitality",
+                    "Research Methodology",
+                    "Entrepreneurship in Hospitality",
+                    "Dissertation/Project Work"
+                ],
+                "eligibility": "B.Sc. Hotel Management or equivalent with minimum 50% marks. BBA/B.Com graduates with hospitality experience may be considered.",
+                "career_prospects": [
+                    "Hotel General Manager",
+                    "Regional Manager",
+                    "Director of Operations",
+                    "Hospitality Consultant",
+                    "Revenue Manager",
+                    "Training & Development Manager",
+                    "Food & Beverage Director",
+                    "Academic positions"
+                ],
+                "scholarships": "Merit scholarships for graduates. GUTS scholarships available."
+            }
+        }
+    ],
+    "health": [
+        {
+            "id": "bsc_nutrition",
+            "name": "B.Sc. Nutrition & Dietetics",
+            "has_details": true,
+            "details": {
+                "overview": "3-year undergraduate program focused on food science, nutrition, therapeutic diets, and wellness. Prepares students to become certified nutritionists and dietitians with clinical and community nutrition training.",
+                "curriculum": [
+                    "Fundamentals of Nutrition",
+                    "Food Science & Technology",
+                    "Diet Therapy & Clinical Nutrition",
+                    "Community Nutrition",
+                    "Nutrition Through Life Cycle",
+                    "Food Microbiology & Safety",
+                    "Public Health Nutrition",
+                    "Sports Nutrition",
+                    "Nutrition Counseling",
+                    "Clinical Internship & Practical Training"
+                ],
+                "eligibility": "10+2 with Physics, Chemistry, Biology with minimum 50% marks. PCM students with Biology also eligible.",
+                "career_prospects": [
+                    "Clinical Dietitian",
+                    "Nutritionist/Diet Consultant",
+                    "Public Health Nutritionist",
+                    "Sports Nutritionist",
+                    "Food Quality Analyst",
+                    "Wellness Coach",
+                    "Hospital Nutrition Manager",
+                    "Community Health Worker"
+                ],
+                "scholarships": "GUTS and merit-based scholarships available."
+            }
+        },
+        {
+            "id": "bpt",
+            "name": "Bachelor of Physiotherapy (BPT)",
+            "has_details": true,
+            "details": {
+                "overview": "4.5-year professional degree program (4 years academic + 6 months internship) in physiotherapy. Focuses on rehabilitation, therapeutic exercises, and physical treatment of injuries and disabilities. Recognized by Indian Association of Physiotherapists.",
+                "curriculum": [
+                    "Human Anatomy & Physiology",
+                    "Biomechanics & Kinesiology",
+                    "Electrotherapy",
+                    "Exercise Therapy",
+                    "Orthopedics & Sports Physiotherapy",
+                    "Neurology Physiotherapy",
+                    "Cardio-Respiratory Physiotherapy",
+                    "Pediatrics & Geriatrics",
+                    "Clinical Psychology & Rehabilitation",
+                    "6-month Compulsory Internship"
+                ],
+                "eligibility": "10+2 with Physics, Chemistry, Biology with minimum 50% marks. Some states may require NEET score.",
+                "career_prospects": [
+                    "Physiotherapist (Hospitals/Clinics)",
+                    "Sports Physiotherapist",
+                    "Rehabilitation Specialist",
+                    "Orthopedic Physiotherapist",
+                    "Neurological Physiotherapist",
+                    "Private Practice Owner",
+                    "Fitness Consultant",
+                    "Academic positions"
+                ],
+                "scholarships": "Merit-based scholarships. GUTS scholarships up to 100%."
+            }
+        },
+        {
+            "id": "msc_nutrition",
+            "name": "M.Sc. Nutrition & Dietetics",
+            "has_details": true,
+            "details": {
+                "overview": "2-year postgraduate program for advanced study in nutrition science, clinical dietetics, and public health nutrition. Prepares for senior positions in healthcare, research, and nutrition consultancy.",
+                "curriculum": [
+                    "Advanced Human Nutrition",
+                    "Clinical & Therapeutic Nutrition",
+                    "Nutritional Biochemistry",
+                    "Public Health Nutrition & Epidemiology",
+                    "Research Methodology & Biostatistics",
+                    "Nutrition in Disease Management",
+                    "Sports & Fitness Nutrition",
+                    "Dissertation/Research Project",
+                    "Clinical Training"
+                ],
+                "eligibility": "B.Sc. Nutrition & Dietetics or related field with minimum 50% marks.",
+                "career_prospects": [
+                    "Senior Clinical Dietitian",
+                    "Nutrition Research Scientist",
+                    "Public Health Nutrition Specialist",
+                    "Nutrition Consultant",
+                    "Diet Clinic Owner",
+                    "Academic/Teaching positions",
+                    "Corporate Wellness Manager"
+                ],
+                "scholarships": "Merit scholarships for B.Sc. graduates. GUTS scholarships available."
+            }
+        },
+        {
+            "id": "mpt",
+            "name": "Master of Physiotherapy (MPT)",
+            "has_details": true,
+            "details": {
+                "overview": "2-year postgraduate program with specialization in physiotherapy. Advanced clinical training and research in specific areas of rehabilitation and therapeutic sciences.",
+                "curriculum": [
+                    "Advanced coursework in specialization",
+                    "Clinical Practice & Case Studies",
+                    "Research Methodology",
+                    "Evidence-Based Physiotherapy",
+                    "Advanced Therapeutic Techniques",
+                    "Dissertation/Research Project",
+                    "Clinical Internship"
+                ],
+                "specializations": [
+                    "Orthopedics Physiotherapy",
+                    "Neurology Physiotherapy",
+                    "Cardio-Respiratory Physiotherapy",
+                    "Sports Physiotherapy",
+                    "Pediatric Physiotherapy"
+                ],
+                "eligibility": "BPT with minimum 50% marks and completion of internship. Entrance test may be required.",
+                "career_prospects": [
+                    "Specialist Physiotherapist",
+                    "Head of Physiotherapy Department",
+                    "Sports Rehabilitation Specialist",
+                    "Academic Professor",
+                    "Research Scientist",
+                    "Consultant Physiotherapist"
+                ],
+                "scholarships": "Merit-based scholarships for BPT graduates. GUTS scholarships available."
+            }
+        }
+    ],
+    "engineering": [
+        {
+            "id": "btech_mechanical",
+            "name": "B.Tech. Mechanical Engineering",
+            "has_details": true,
+            "details": {
+                "overview": "4-year undergraduate engineering program in mechanical systems, thermodynamics, manufacturing, and design. Comprehensive training in core mechanical engineering with modern CAD/CAM tools and industry-relevant skills.",
+                "curriculum": [
+                    "Engineering Mechanics & Thermodynamics",
+                    "Fluid Mechanics & Machinery",
+                    "Manufacturing Processes",
+                    "Machine Design & Drawing",
+                    "CAD/CAM & Automation",
+                    "Heat Transfer & Refrigeration",
+                    "Industrial Engineering",
+                    "Robotics & Mechatronics",
+                    "Project Work & Industrial Training"
+                ],
+                "eligibility": "10+2 with Physics, Mathematics as compulsory subjects with Chemistry/Biotechnology/Biology. Minimum 45% marks (40% for reserved).",
+                "career_prospects": [
+                    "Mechanical Engineer",
+                    "Design Engineer",
+                    "Production Engineer",
+                    "Quality Control Engineer",
+                    "Automotive Engineer",
+                    "CAD/CAM Engineer",
+                    "Maintenance Engineer",
+                    "HVAC Engineer"
+                ],
+                "scholarships": "JEE Main-based scholarships. GUTS scholarships up to 100%. Merit-based aid available."
+            }
+        },
+        {
+            "id": "btech_civil",
+            "name": "B.Tech. Civil Engineering",
+            "has_details": true,
+            "details": {
+                "overview": "4-year undergraduate program in civil engineering covering construction, structural design, transportation, and infrastructure development. Practical training in surveying, testing, and modern construction technologies.",
+                "curriculum": [
+                    "Engineering Mechanics & Surveying",
+                    "Structural Analysis & Design",
+                    "Geotechnical Engineering",
+                    "Transportation Engineering",
+                    "Environmental Engineering",
+                    "Construction Technology & Management",
+                    "Hydraulics & Water Resources",
+                    "CAD & Building Information Modeling",
+                    "Project Management & Site Training"
+                ],
+                "eligibility": "10+2 with Physics, Mathematics, and Chemistry with minimum 45% marks (40% for reserved). JEE Main score accepted.",
+                "career_prospects": [
+                    "Civil Engineer",
+                    "Structural Engineer",
+                    "Construction Manager",
+                    "Site Engineer",
+                    "Urban Planner",
+                    "Surveyor",
+                    "Government Civil Services",
+                    "Project Manager"
+                ],
+                "scholarships": "GUTS and JEE Main scholarships available. Merit-based financial aid."
+            }
+        },
+        {
+            "id": "btech_electrical",
+            "name": "B.Tech. Electrical Engineering",
+            "has_details": true,
+            "details": {
+                "overview": "4-year undergraduate program in electrical systems, power generation, electronics, and control systems. Training in electrical machines, power systems, and modern electrical technologies.",
+                "curriculum": [
+                    "Electrical Circuits & Networks",
+                    "Electrical Machines & Drives",
+                    "Power Systems & Generation",
+                    "Control Systems Engineering",
+                    "Power Electronics",
+                    "Digital Electronics & Microprocessors",
+                    "Renewable Energy Systems",
+                    "Electric Vehicle Technology",
+                    "Industrial Training & Projects"
+                ],
+                "eligibility": "10+2 with Physics, Mathematics as compulsory with Chemistry/Bio technology. Minimum 45% marks (40% for reserved).",
+                "career_prospects": [
+                    "Electrical Engineer",
+                    "Power Systems Engineer",
+                    "Control Systems Engineer",
+                    "Electrical Design Engineer",
+                    "Automation Engineer",
+                    "Renewable Energy Consultant",
+                    "Electrical Maintenance Engineer"
+                ],
+                "scholarships": "JEE-based and GUTS scholarships up to 100%."
+            }
+        },
+        {
+            "id": "btech_electronics",
+            "name": "B.Tech. Electronics & Communication Engineering",
+            "has_details": true,
+            "details": {
+                "overview": "4-year undergraduate program in electronics, communication systems, VLSI, and embedded systems. Focus on modern communication technologies, signal processing, and electronic circuit design.",
+                "curriculum": [
+                    "Electronic Devices & Circuits",
+                    "Digital Signal Processing",
+                    "Communication Systems",
+                    "Microprocessors & Microcontrollers",
+                    "VLSI Design",
+                    "Embedded Systems",
+                    "Wireless Communication",
+                    "IoT & Sensor Networks",
+                    "Project Work & Industrial Training"
+                ],
+                "eligibility": "10+2 with Physics, Mathematics with Chemistry/Biotechnology. Minimum 45% marks (40% for reserved). JEE Main accepted.",
+                "career_prospects": [
+                    "Electronics Engineer",
+                    "Communication Engineer",
+                    "VLSI Design Engineer",
+                    "Embedded Systems Developer",
+                    "Network Engineer",
+                    "RF Engineer",
+                    "Signal Processing Engineer"
+                ],
+                "scholarships": "GUTS scholarships and JEE Main-based aid up to 100%."
+            }
+        }
+    ]
+}

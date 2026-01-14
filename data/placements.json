@@ -1,0 +1,75 @@
+{
+    "overview": "Geeta University has a dedicated Placement Cell with 100% placement assistance, bridging the gap between industry and academia. Over 350+ companies visited in 2024-25 across IT, BFSI, Marketing, Consulting, Pharma, Core Engineering, and EdTech sectors.",
+    "statistics": {
+        "highest_package": "52 LPA (B.Tech - Reliance)",
+        "average_package": "6 LPA",
+        "companies_visited": "350+",
+        "offers_made": "3000+",
+        "sectors": [
+            "Information Technology",
+            "Banking & Financial Services",
+            "Marketing & Sales",
+            "Consulting",
+            "Pharmaceutical",
+            "Core Engineering",
+            "EdTech"
+        ]
+    },
+    "top_recruiters": [
+        "Wipro",
+        "Infosys",
+        "HCL",
+        "TCS",
+        "Amazon",
+        "Tech Mahindra",
+        "Capgemini",
+        "Byju's",
+        "Cipla",
+        "IBM",
+        "Reliance",
+        "Godrej Properties",
+        "HDFC Bank",
+        "Apisero",
+        "Genpact",
+        "Jet Airways",
+        "Reckonsys",
+        "Philips",
+        "Aditya Birla Group",
+        "Jaro Education"
+    ],
+    "notable_placements": [
+        {
+            "package": "52 LPA",
+            "program": "B.Tech",
+            "company": "Reliance"
+        },
+        {
+            "package": "40 LPA",
+            "program": "Engineering",
+            "company": "Apisero Pune"
+        },
+        {
+            "package": "17 LPA",
+            "program": "MBA",
+            "company": "Godrej Properties Ltd."
+        }
+    ],
+    "activities": [
+        "Pre-placement training and skill development",
+        "Mock interviews and group discussions",
+        "Resume building workshops",
+        "Industrial visits and company tours",
+        "Internship support and placement assistance",
+        "Career development workshops",
+        "Industry interactions and guest lectures",
+        "On-campus recruitment drives"
+    ],
+    "internship_opportunities": {
+        "highest_stipend": "INR 20,000 per month",
+        "recent_partners": [
+            "Bajaj Capital",
+            "Times of India",
+            "Pikasho"
+        ]
+    }
+}
