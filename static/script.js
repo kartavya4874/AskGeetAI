@@ -27,7 +27,7 @@ async function initChat() {
 async function restartChat() {
     // Clear chat box
     chatBox.innerHTML = '';
-    
+
     // Call Restart API with current session ID to delete it
     try {
         const response = await fetch('/api/restart', {
@@ -38,12 +38,24 @@ async function restartChat() {
             })
         });
         const data = await response.json();
-        
+
         // Reset session ID to start fresh
         sessionId = null;
-        
-        // Handle the restart response
-        handleBotResponse(data);
+
+        // Handle the restart response - no delays for instant restart
+        if (data.session_id) {
+            sessionId = data.session_id;
+        }
+
+        // Display messages instantly without delays for restart
+        data.messages.forEach((msg, index) => {
+            addMessage(msg, 'bot');
+        });
+
+        // Configure input after restart
+        if (data.messages.length > 0) {
+            configureInput(data);
+        }
     } catch (e) {
         console.error("Failed to restart chat", e);
         addMessage("Sorry, something went wrong. Please refresh the page.", "bot");
