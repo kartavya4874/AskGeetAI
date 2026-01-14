@@ -55,7 +55,7 @@ async def restart_chat(user_input: UserInput):
     # Return the welcome message to restart
     return BotResponse(
         session_id="", 
-        messages=["Hello! Welcome to ASK GEETA AI. \nI am your virtual guide for Geeta University.", "May I know your name so I can address you properly?"],
+        messages=["Hello! Welcome to ASKGEETAI. \nI am your virtual guide for Geeta University.", "May I know your name so I can address you properly?"],
         buttons=[],
         input_type="text"
     )
