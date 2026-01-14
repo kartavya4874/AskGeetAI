@@ -63,6 +63,7 @@ def handle_flow(session, user_choice):
                 {"text": "Career Prospects", "value": "detail_career"},
                 {"text": "Eligibility", "value": "detail_eligibility"},
                 {"text": "Scholarships", "value": "detail_scholarships"},
+                {"text": "Fees", "value": "detail_fees"},
                 {"text": "Back to Courses", "value": f"school_{school_id}"}
             ],
             "input_type": "button"
@@ -114,6 +115,17 @@ def handle_detail_view(session, user_choice):
     elif user_choice == "detail_scholarships":
         messages.append("**Scholarships:**")
         messages.append(details["scholarships"])
+        
+    elif user_choice == "detail_fees":
+        messages.append("**Program Fees:**")
+        if "fees" in details:
+            fees = details["fees"]
+            messages.append(f"**Program Fee per Semester:** ₹{fees['prog_fee_per_sem']:,}")
+            messages.append(f"**Tuition Fee:** ₹{fees['tuition_fee']:,}")
+            if "level" in fees:
+                messages.append(f"**Level:** {fees['level']}")
+        else:
+            messages.append("Fee information is not available for this program.")
         
     buttons = [
         {"text": "Back to Course Menu", "value": f"course_{course_id}"},

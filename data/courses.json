@@ -28,7 +28,12 @@
                     "DevOps Engineer",
                     "AI Research Scientist"
                 ],
-                "scholarships": "Merit-based scholarships available based on 10+2 percentage or JEE Mains score. Up to 100% scholarship through GUTS. National entrance exam scholarships also applicable."
+                "scholarships": "Merit-based scholarships available based on 10+2 percentage or JEE Mains score. Up to 100% scholarship through GUTS. National entrance exam scholarships also applicable.",
+                "fees": {
+                    "prog_fee_per_sem": 95000,
+                    "tuition_fee": 60000,
+                    "level": "UG"
+                }
             }
         },
         {
@@ -57,7 +62,12 @@
                     "Academic/Teaching positions",
                     "Technical Consultant"
                 ],
-                "scholarships": "GUTS and GATE-based scholarships available. Merit scholarships for graduates with high CGPA."
+                "scholarships": "GUTS and GATE-based scholarships available. Merit scholarships for graduates with high CGPA.",
+                "fees": {
+                    "prog_fee_per_sem": 40000,
+                    "tuition_fee": 25000,
+                    "level": "PG"
+                }
             }
         },
         {
@@ -87,7 +97,12 @@
                     "IT Support Specialist",
                     "Junior Software Engineer"
                 ],
-                "scholarships": "GUTS scholarship up to 100%. Merit-based scholarships for high performers in Class 12."
+                "scholarships": "GUTS scholarship up to 100%. Merit-based scholarships for high performers in Class 12.",
+                "fees": {
+                    "prog_fee_per_sem": 55000,
+                    "tuition_fee": 35000,
+                    "level": "UG"
+                }
             }
         },
         {
@@ -117,7 +132,12 @@
                     "Database Administrator",
                     "IT Consultant"
                 ],
-                "scholarships": "GUTS scholarships available. Merit-based aid for high CGPA in graduation."
+                "scholarships": "GUTS scholarships available. Merit-based aid for high CGPA in graduation.",
+                "fees": {
+                    "prog_fee_per_sem": 50000,
+                    "tuition_fee": 30000,
+                    "level": "PG"
+                }
             }
         },
         {
@@ -153,7 +173,12 @@
                     "Technical Consultant",
                     "Innovation Manager"
                 ],
-                "scholarships": "University fellowships and research grants available. UGC NET qualified candidates receive additional benefits."
+                "scholarships": "University fellowships and research grants available. UGC NET qualified candidates receive additional benefits.",
+                "fees": {
+                    "prog_fee_per_sem": 55000,
+                    "tuition_fee": 35000,
+                    "level": "Ph.D"
+                }
             }
         }
     ],
@@ -186,7 +211,12 @@
                     "Hospital Pharmacist",
                     "Research Scientist"
                 ],
-                "scholarships": "Scholarships available based on GUTS score or 12th standard marks. Merit scholarships for high performers."
+                "scholarships": "Scholarships available based on GUTS score or 12th standard marks. Merit scholarships for high performers.",
+                "fees": {
+                    "prog_fee_per_sem": 75000,
+                    "tuition_fee": 50000,
+                    "level": "UG"
+                }
             }
         },
         {
@@ -215,7 +245,12 @@
                     "Drug Inspector (after experience)",
                     "Sales & Marketing in Pharma"
                 ],
-                "scholarships": "GUTS and merit-based scholarships available. Special concessions for economically weaker sections."
+                "scholarships": "GUTS and merit-based scholarships available. Special concessions for economically weaker sections.",
+                "fees": {
+                    "prog_fee_per_sem": 45000,
+                    "tuition_fee": 30000,
+                    "level": "Diploma"
+                }
             }
         },
         {
@@ -257,7 +292,12 @@
                     "Clinical Research Manager",
                     "Drug Safety Associate"
                 ],
-                "scholarships": "GPAT-based scholarships. GUTS and merit scholarships available for B.Pharm graduates."
+                "scholarships": "GPAT-based scholarships. GUTS and merit scholarships available for B.Pharm graduates.",
+                "fees": {
+                    "prog_fee_per_sem": 75000,
+                    "tuition_fee": 50000,
+                    "level": "PG"
+                }
             }
         },
         {
@@ -293,7 +333,12 @@
                     "Pharmaceutical Consultant",
                     "Research Director"
                 ],
-                "scholarships": "Research fellowships available. NET/GATE qualified candidates receive financial assistance."
+                "scholarships": "Research fellowships available. NET/GATE qualified candidates receive financial assistance.",
+                "fees": {
+                    "prog_fee_per_sem": 55000,
+                    "tuition_fee": 35000,
+                    "level": "Ph.D"
+                }
             }
         }
     ],
@@ -327,7 +372,12 @@
                     "Crop Advisor",
                     "Banking Sector (Agricultural Finance)"
                 ],
-                "scholarships": "Available via GUTS or merit-based on qualifying exam. Special scholarships for rural students."
+                "scholarships": "Available via GUTS or merit-based on qualifying exam. Special scholarships for rural students.",
+                "fees": {
+                    "prog_fee_per_sem": 65000,
+                    "tuition_fee": 40000,
+                    "level": "UG"
+                }
             }
         },
         {
@@ -357,7 +407,12 @@
                     "Agricultural Consultant",
                     "Agronomist in MNCs"
                 ],
-                "scholarships": "Merit-based scholarships for B.Sc. Agriculture graduates. GUTS scholarships available."
+                "scholarships": "Merit-based scholarships for B.Sc. Agriculture graduates. GUTS scholarships available.",
+                "fees": {
+                    "prog_fee_per_sem": 50000,
+                    "tuition_fee": 30000,
+                    "level": "PG"
+                }
             }
         },
         {
@@ -393,7 +448,12 @@
                     "International Organization Consultant",
                     "Agribusiness R&D Head"
                 ],
-                "scholarships": "University fellowships and research grants. NET/ICAR fellowship available for qualified candidates."
+                "scholarships": "University fellowships and research grants. NET/ICAR fellowship available for qualified candidates.",
+                "fees": {
+                    "prog_fee_per_sem": 55000,
+                    "tuition_fee": 35000,
+                    "level": "Ph.D"
+                }
             }
         }
     ],
@@ -428,7 +488,12 @@
                     "Civil Services (IAS, IPS)",
                     "Legal Process Outsourcing"
                 ],
-                "scholarships": "Merit scholarships and GUTS based financial aid available. CLAT toppers receive special scholarships."
+                "scholarships": "Merit scholarships and GUTS based financial aid available. CLAT toppers receive special scholarships.",
+                "fees": {
+                    "prog_fee_per_sem": 125000,
+                    "tuition_fee": 80000,
+                    "level": "UG"
+                }
             }
         },
         {
@@ -461,7 +526,12 @@
                     "Contract Manager",
                     "Mergers & Acquisitions Specialist"
                 ],
-                "scholarships": "GUTS scholarships up to 100%. Merit-based aid for high performers in Class 12."
+                "scholarships": "GUTS scholarships up to 100%. Merit-based aid for high performers in Class 12.",
+                "fees": {
+                    "prog_fee_per_sem": 125000,
+                    "tuition_fee": 80000,
+                    "level": "UG"
+                }
             }
         },
         {
@@ -492,7 +562,12 @@
                     "Legal Officer in Government",
                     "Legal Consultant"
                 ],
-                "scholarships": "Merit scholarships based on graduation marks. GUTS scholarships available."
+                "scholarships": "Merit scholarships based on graduation marks. GUTS scholarships available.",
+                "fees": {
+                    "prog_fee_per_sem": 125000,
+                    "tuition_fee": 80000,
+                    "level": "UG"
+                }
             }
         },
         {
@@ -529,7 +604,12 @@
                     "Higher Judiciary",
                     "Legal Advisor to Government"
                 ],
-                "scholarships": "Merit-based scholarships for LL.B. graduates. GUTS and CLAT PG scholarships available."
+                "scholarships": "Merit-based scholarships for LL.B. graduates. GUTS and CLAT PG scholarships available.",
+                "fees": {
+                    "prog_fee_per_sem": 65000,
+                    "tuition_fee": 40000,
+                    "level": "PG"
+                }
             }
         },
         {
@@ -566,7 +646,12 @@
                     "Legal Policy Maker",
                     "International Legal Consultant"
                 ],
-                "scholarships": "Research fellowships available. UGC NET qualified receive financial assistance."
+                "scholarships": "Research fellowships available. UGC NET qualified receive financial assistance.",
+                "fees": {
+                    "prog_fee_per_sem": 55000,
+                    "tuition_fee": 35000,
+                    "level": "Ph.D"
+                }
             }
         }
     ],
@@ -615,7 +700,12 @@
                     "Entrepreneur",
                     "Product Manager"
                 ],
-                "scholarships": "Scholarships for meritorious students and entrance exam toppers. CAT/MAT toppers receive up to 50% scholarship. GUTS scholarships available."
+                "scholarships": "Scholarships for meritorious students and entrance exam toppers. CAT/MAT toppers receive up to 50% scholarship. GUTS scholarships available.",
+                "fees": {
+                    "prog_fee_per_sem": 137500,
+                    "tuition_fee": 87500,
+                    "level": "PG"
+                }
             }
         },
         {
@@ -658,7 +748,12 @@
                     "Sales Manager",
                     "Administrative Officer"
                 ],
-                "scholarships": "GUTS scholarships up to 100%. Merit-based aid for Class 12 toppers."
+                "scholarships": "GUTS scholarships up to 100%. Merit-based aid for Class 12 toppers.",
+                "fees": {
+                    "prog_fee_per_sem": 60000,
+                    "tuition_fee": 35000,
+                    "level": "UG"
+                }
             }
         },
         {
@@ -696,7 +791,12 @@
                     "Financial Advisor",
                     "Insurance Manager"
                 ],
-                "scholarships": "Merit scholarships based on Class 12 marks. GUTS scholarships available. Special benefits for ACCA pathway students."
+                "scholarships": "Merit scholarships based on Class 12 marks. GUTS scholarships available. Special benefits for ACCA pathway students.",
+                "fees": {
+                    "prog_fee_per_sem": 45000,
+                    "tuition_fee": 30000,
+                    "level": "UG"
+                }
             }
         },
         {
@@ -725,7 +825,12 @@
                     "Investment Advisor",
                     "Research Analyst"
                 ],
-                "scholarships": "Merit-based scholarships for B.Com graduates. GUTS scholarships available."
+                "scholarships": "Merit-based scholarships for B.Com graduates. GUTS scholarships available.",
+                "fees": {
+                    "prog_fee_per_sem": 45000,
+                    "tuition_fee": 30000,
+                    "level": "PG"
+                }
             }
         },
         {
@@ -761,7 +866,12 @@
                     "Corporate Trainer",
                     "Policy Researcher"
                 ],
-                "scholarships": "University fellowships available. UGC NET qualified candidates receive financial assistance."
+                "scholarships": "University fellowships available. UGC NET qualified candidates receive financial assistance.",
+                "fees": {
+                    "prog_fee_per_sem": 55000,
+                    "tuition_fee": 35000,
+                    "level": "Ph.D"
+                }
             }
         }
     ],
@@ -795,7 +905,12 @@
                     "Private Forensic Consultant",
                     "Research Associate in Forensics"
                 ],
-                "scholarships": "Merit-based and GUTS scholarships apply. Special considerations for students interested in law enforcement careers."
+                "scholarships": "Merit-based and GUTS scholarships apply. Special considerations for students interested in law enforcement careers.",
+                "fees": {
+                    "prog_fee_per_sem": 65000,
+                    "tuition_fee": 40000,
+                    "level": "UG"
+                }
             }
         },
         {
@@ -825,7 +940,12 @@
                     "Expert Witness in Courts",
                     "Forensic Trainer"
                 ],
-                "scholarships": "Merit scholarships for B.Sc. graduates. GUTS scholarships available."
+                "scholarships": "Merit scholarships for B.Sc. graduates. GUTS scholarships available.",
+                "fees": {
+                    "prog_fee_per_sem": 60000,
+                    "tuition_fee": 35000,
+                    "level": "PG"
+                }
             }
         },
         {
@@ -860,7 +980,12 @@
                     "Expert Witness",
                     "International Forensic Consultant"
                 ],
-                "scholarships": "Research fellowships available. NET qualified candidates receive financial assistance."
+                "scholarships": "Research fellowships available. NET qualified candidates receive financial assistance.",
+                "fees": {
+                    "prog_fee_per_sem": 55000,
+                    "tuition_fee": 35000,
+                    "level": "Ph.D"
+                }
             }
         }
     ],
@@ -894,7 +1019,12 @@
                     "Political Campaign Manager",
                     "NGO/Social Work"
                 ],
-                "scholarships": "Available for meritorious students. GUTS scholarships up to 100%."
+                "scholarships": "Available for meritorious students. GUTS scholarships up to 100%.",
+                "fees": {
+                    "prog_fee_per_sem": 50000,
+                    "tuition_fee": 30000,
+                    "level": "UG"
+                }
             }
         },
         {
@@ -926,7 +1056,12 @@
                     "Mass Media Professional",
                     "Creative Writer/Author"
                 ],
-                "scholarships": "Merit-based scholarships for Class 12 achievers. GUTS scholarships available."
+                "scholarships": "Merit-based scholarships for Class 12 achievers. GUTS scholarships available.",
+                "fees": {
+                    "prog_fee_per_sem": 50000,
+                    "tuition_fee": 30000,
+                    "level": "UG"
+                }
             }
         },
         {
@@ -958,7 +1093,12 @@
                     "Rehabilitation Specialist",
                     "Organizational Consultant"
                 ],
-                "scholarships": "GUTS scholarships and merit-based aid available."
+                "scholarships": "GUTS scholarships and merit-based aid available.",
+                "fees": {
+                    "prog_fee_per_sem": 50000,
+                    "tuition_fee": 30000,
+                    "level": "UG"
+                }
             }
         },
         {
@@ -994,7 +1134,12 @@
                     "Research Psychologist",
                     "Hospital/Healthcare Psychologist"
                 ],
-                "scholarships": "Merit scholarships for B.A. graduates. GUTS scholarships available."
+                "scholarships": "Merit scholarships for B.A. graduates. GUTS scholarships available.",
+                "fees": {
+                    "prog_fee_per_sem": 50000,
+                    "tuition_fee": 30000,
+                    "level": "PG"
+                }
             }
         },
         {
@@ -1025,7 +1170,12 @@
                     "Literary Critic",
                     "Corporate Communication Manager"
                 ],
-                "scholarships": "Merit-based scholarships. GUTS scholarships for high achievers."
+                "scholarships": "Merit-based scholarships. GUTS scholarships for high achievers.",
+                "fees": {
+                    "prog_fee_per_sem": 50000,
+                    "tuition_fee": 30000,
+                    "level": "PG"
+                }
             }
         },
         {
@@ -1059,7 +1209,12 @@
                     "Think Tank Consultant",
                     "Senior Psychologist/Counselor"
                 ],
-                "scholarships": "Research fellowships available. UGC NET/JRF qualified receive financial assistance."
+                "scholarships": "Research fellowships available. UGC NET/JRF qualified receive financial assistance.",
+                "fees": {
+                    "prog_fee_per_sem": 55000,
+                    "tuition_fee": 35000,
+                    "level": "Ph.D"
+                }
             }
         }
     ],
@@ -1094,7 +1249,12 @@
                     "Resort Manager",
                     "Hospitality Consultant"
                 ],
-                "scholarships": "GUTS scholarships available. Merit-based aid for high achievers in Class 12."
+                "scholarships": "GUTS scholarships available. Merit-based aid for high achievers in Class 12.",
+                "fees": {
+                    "prog_fee_per_sem": 60000,
+                    "tuition_fee": 35000,
+                    "level": "UG"
+                }
             }
         },
         {
@@ -1124,7 +1284,12 @@
                     "Catering Assistant",
                     "Guest Relations Executive"
                 ],
-                "scholarships": "GUTS scholarships applicable. Special concessions for deserving candidates."
+                "scholarships": "GUTS scholarships applicable. Special concessions for deserving candidates.",
+                "fees": {
+                    "prog_fee_per_sem": 80000,
+                    "tuition_fee": 20000,
+                    "level": "UG"
+                }
             }
         },
         {
@@ -1155,7 +1320,12 @@
                     "Food & Beverage Director",
                     "Academic positions"
                 ],
-                "scholarships": "Merit scholarships for graduates. GUTS scholarships available."
+                "scholarships": "Merit scholarships for graduates. GUTS scholarships available.",
+                "fees": {
+                    "prog_fee_per_sem": 60000,
+                    "tuition_fee": 35000,
+                    "level": "PG"
+                }
             }
         }
     ],
@@ -1189,7 +1359,12 @@
                     "Hospital Nutrition Manager",
                     "Community Health Worker"
                 ],
-                "scholarships": "GUTS and merit-based scholarships available."
+                "scholarships": "GUTS and merit-based scholarships available.",
+                "fees": {
+                    "prog_fee_per_sem": 50000,
+                    "tuition_fee": 30000,
+                    "level": "UG"
+                }
             }
         },
         {
@@ -1221,7 +1396,12 @@
                     "Fitness Consultant",
                     "Academic positions"
                 ],
-                "scholarships": "Merit-based scholarships. GUTS scholarships up to 100%."
+                "scholarships": "Merit-based scholarships. GUTS scholarships up to 100%.",
+                "fees": {
+                    "prog_fee_per_sem": 50000,
+                    "tuition_fee": 30000,
+                    "level": "UG"
+                }
             }
         },
         {
@@ -1251,7 +1431,12 @@
                     "Academic/Teaching positions",
                     "Corporate Wellness Manager"
                 ],
-                "scholarships": "Merit scholarships for B.Sc. graduates. GUTS scholarships available."
+                "scholarships": "Merit scholarships for B.Sc. graduates. GUTS scholarships available.",
+                "fees": {
+                    "prog_fee_per_sem": 50000,
+                    "tuition_fee": 30000,
+                    "level": "PG"
+                }
             }
         },
         {
@@ -1285,7 +1470,12 @@
                     "Research Scientist",
                     "Consultant Physiotherapist"
                 ],
-                "scholarships": "Merit-based scholarships for BPT graduates. GUTS scholarships available."
+                "scholarships": "Merit-based scholarships for BPT graduates. GUTS scholarships available.",
+                "fees": {
+                    "prog_fee_per_sem": 50000,
+                    "tuition_fee": 30000,
+                    "level": "PG"
+                }
             }
         }
     ],
@@ -1318,7 +1508,12 @@
                     "Maintenance Engineer",
                     "HVAC Engineer"
                 ],
-                "scholarships": "JEE Main-based scholarships. GUTS scholarships up to 100%. Merit-based aid available."
+                "scholarships": "JEE Main-based scholarships. GUTS scholarships up to 100%. Merit-based aid available.",
+                "fees": {
+                    "prog_fee_per_sem": 80000,
+                    "tuition_fee": 50000,
+                    "level": "UG"
+                }
             }
         },
         {
@@ -1349,7 +1544,12 @@
                     "Government Civil Services",
                     "Project Manager"
                 ],
-                "scholarships": "GUTS and JEE Main scholarships available. Merit-based financial aid."
+                "scholarships": "GUTS and JEE Main scholarships available. Merit-based financial aid.",
+                "fees": {
+                    "prog_fee_per_sem": 80000,
+                    "tuition_fee": 50000,
+                    "level": "UG"
+                }
             }
         },
         {
@@ -1379,7 +1579,12 @@
                     "Renewable Energy Consultant",
                     "Electrical Maintenance Engineer"
                 ],
-                "scholarships": "JEE-based and GUTS scholarships up to 100%."
+                "scholarships": "JEE-based and GUTS scholarships up to 100%.",
+                "fees": {
+                    "prog_fee_per_sem": 80000,
+                    "tuition_fee": 50000,
+                    "level": "UG"
+                }
             }
         },
         {
@@ -1409,7 +1614,12 @@
                     "RF Engineer",
                     "Signal Processing Engineer"
                 ],
-                "scholarships": "GUTS scholarships and JEE Main-based aid up to 100%."
+                "scholarships": "GUTS scholarships and JEE Main-based aid up to 100%.",
+                "fees": {
+                    "prog_fee_per_sem": 80000,
+                    "tuition_fee": 50000,
+                    "level": "UG"
+                }
             }
         }
     ]
