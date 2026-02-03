@@ -6,3 +6,4 @@ beautifulsoup4
 twilio
 sqlmodel
 python-dotenv
+psycopg2-binary

@@ -10,7 +10,15 @@ class User(SQLModel, table=True):
 sqlite_file_name = "users.db"
 sqlite_url = f"sqlite:///{sqlite_file_name}"
 
-engine = create_engine(sqlite_url, echo=True)
+# Use DATABASE_URL from environment for production (e.g., Vercel Postgres)
+# Default to local SQLite if not provided
+database_url = os.getenv("DATABASE_URL", sqlite_url)
+
+# SQLAlchemy/SQLModel require postgresql:// instead of postgres://
+if database_url.startswith("postgres://"):
+    database_url = database_url.replace("postgres://", "postgresql://", 1)
+
+engine = create_engine(database_url, echo=True)
 
 def create_db_and_tables():
     SQLModel.metadata.create_all(engine)
