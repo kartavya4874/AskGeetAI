@@ -223,6 +223,12 @@ body {
     border: 1px solid #f1f1f1;
 }
 
+.bot-message.error-message {
+    border-left: 4px solid #ff4d4d;
+    background: #fff5f5;
+    color: #cc0000;
+}
+
 .user-message {
     background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-light) 100%);
     color: var(--user-msg-text);

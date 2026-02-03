@@ -97,8 +97,14 @@ function configureInput(data) {
     inputArea.classList.remove('active');
     // controlsArea removed
 
-    if (data.input_type === 'text') {
+    if (data.input_type === 'text' || data.input_type === 'tel') {
         inputArea.classList.add('active');
+        userInput.type = data.input_type === 'tel' ? 'tel' : 'text';
+        if (data.placeholder) {
+            userInput.placeholder = data.placeholder;
+        } else {
+            userInput.placeholder = "Type your message...";
+        }
         userInput.focus();
     } else if (data.input_type === 'button') {
         const wrapper = document.createElement('div');
@@ -133,6 +139,15 @@ function configureInput(data) {
 async function sendMessage() {
     const text = userInput.value.trim();
     if (!text) return;
+
+    // Basic Frontend Validation for Mobile
+    if (userInput.type === 'tel') {
+        const cleaned = text.replace(/\s+/g, '');
+        if (cleaned.length < 10) {
+            addMessage("Please enter a valid mobile number (at least 10 digits).", 'bot');
+            return;
+        }
+    }
 
     addMessage(text, 'user');
     inputArea.classList.remove('active'); // Hide input after sending
@@ -173,12 +188,12 @@ async function callMessageApi(messageOrValue) {
 
     } catch (e) {
         removeTyping();
-        addMessage("Sorry, something went wrong. Please try again.", "bot");
+        addMessage("Sorry, something went wrong. Please try again.", "bot", true);
         console.error(e);
     }
 }
 
-function addMessage(text, sender) {
+function addMessage(text, sender, isError = false) {
     const div = document.createElement('div');
     div.className = `message-wrapper ${sender}-wrapper`;
 
@@ -187,9 +202,11 @@ function addMessage(text, sender) {
         iconHtml = `<img src="logo.jpeg" class="bot-icon" alt="Bot" onerror="this.style.backgroundColor='#002D62';">`;
     }
 
+    const errorClass = isError ? ' error-message' : '';
+
     div.innerHTML = `
         ${iconHtml}
-        <div class="message ${sender}-message">
+        <div class="message ${sender}-message${errorClass}">
             ${parseMarkdown(text)}
         </div>
     `;

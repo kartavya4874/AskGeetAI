@@ -3,3 +3,6 @@ uvicorn
 python-multipart
 requests
 beautifulsoup4
+twilio
+sqlmodel
+python-dotenv
